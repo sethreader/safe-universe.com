@@ -1,0 +1,17 @@
+clone:
+  git:
+    image: plugins/git
+    recursive: true
+
+pipeline:
+  build:
+    image: chaosbunker/drone-hugo:latest
+    settings:
+      hugo_version: 0.56.1
+      url: https://safe-universe.com
+      validate: true
+    volumes:
+      - /root/dockerbunker/data/web/safe-universe.com:/drone/src/public
+    commands:
+      - hugo -v --cleanDestinationDir
+      - hugo version

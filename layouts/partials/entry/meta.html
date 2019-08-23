@@ -1,0 +1,19 @@
+		<div class='meta'>
+			<span class="fa-stack fa-lg">
+				<i class="fa fa-lightbulb-o"></i>
+				{{ if .Params.Reference }}
+				{{ .Params.Reference }}
+				{{end}}
+			</span>
+			{{ if .Site.Params.showReadTime }}
+			<span class="fa-stack fa-lg">
+				<i class="fa fa-clock-o"></i>
+				{{ i18n "readingTime" .ReadingTime }}
+			</span>
+			{{ end }}
+			{{ $markdownFileRelativePath := .RelPermalink | replaceRE "/$" "$1.md" }}
+			<span class="editLink">
+				<a href="{{ .Site.Params.GitRepoContentEditLink }}{{ $markdownFileRelativePath }}">Edit</a>
+			</span>
+		</div>
+

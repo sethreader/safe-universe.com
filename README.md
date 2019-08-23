@@ -1,0 +1,1 @@
+[![Build Status](https://drone.safe-universe.com/api/badges/sethreader/safe-universe.com/status.svg)](https://drone.safe-universe.com/sethreader/safe-universe.com)

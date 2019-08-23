@@ -1,0 +1,1754 @@
+---
+title: "Index of 11 Seth Books"
+titleshort: 'Index of 11 Seth Books'
+description: ''
+reference: 'Version 2 (July, 2010) by Sue R. Williams, reworked by hobs (August, 2019)'
+date: 2016-12-18
+author: ''
+meta:
+ keywords: ''
+categories: ['Community']
+tags: ['tools']
+draft: true
+comments: true
+---
+**Index Format and Content**
+
+The 13 volumes (11 books) covered by this index are:
+
+|        |       |                                                                                        |
+|--------|-------|----------------------------------------------------------------------------------------|
+| EP     | =     | How to Develop Your ESP Power                                                          |
+| SDaPoC | =     | Seth, Dreams, and Projection of Consciousness                                          |
+| SM     | =     | The Seth Material                                                                      |
+| [SS](https://www.indiebound.org/search/book?keys=jane+roberts+seth+speaks)     | =     | [Seth Speaks](https://www.indiebound.org/search/book?keys=jane+roberts+seth+speaks)                                                                            |
+| NoPR   | =     | The Nature of Personal Reality                                                         |
+| UR1    | =     | The “Unknown” Reality \- Volume 1                                                      |
+| UR2    | =     | The “Unknown” Reality \- Volume 2                                                      |
+| NotP   | =     | The Nature of the Psyche                                                               |
+| NoME   | =     | The Individual and the Nature of Mass Events                                           |
+| DEaVF1 | =     | Dreams, “Evolution,” and Value Fulfillment \- Volume 1                                 |
+| DEaVF2 | =     | Dreams, “Evolution,” and Value Fulfillment \- Volume 2                                 |
+| TMA    | =     | The Magical Approach                                                                   |
+| WTH    | =     | The Way Toward Health                                                                  |
+
+To avoid the problem that different editions of the indexed books have different page numbers, the entries
+in this index do not contain specific page numbers – they contain session numbers, chapter numbers,
+appendix letters, etc. Sessions usually contain two to eight pages; chapters are usually 11 to 12 pages.
+Thus you will have to hunt through a number of pages to find the text to which an entry refers. Using
+substitutes for page numbers was necessary to avoid indexing every current and future edition of these
+books.
+
+The substitutes for page numbers contain the following abbreviations:
+
+|        |       |                                                                                        |
+|--------|-------|----------------------------------------------------------------------------------------|
+| App c  | ==    | Appendix –\+ for example, AppA = Appendix A chapter \-\- for example, c15 = Chapter 15 |
+| ESP    | =     | ESP Class Session                                                                      |
+| Epi    | =     | Epilogue                                                                               |
+| For    | =     | Forward                                                                                |
+| Int    | =     | Introduction                                                                           |
+| In1    | =     | Introduction 1                                                                         |
+| In2    | =     | Introduction 2                                                                         |
+| Int01  | =     | Essay 1                                                                                |
+| n      | =     | note at the end of the section                                                         |
+| Pre    | =     | Preface                                                                                |
+| s      | =     | Session \- examples are:                                                               |
+|        |       | s381 = Session 381
+|        |       | s1/05 = a session that occurred on 1/05/1984 (from The Way Toward Health)
+
+**[A]**
+
+- abilities
+  - creative and psychic, _SM:c01, NoME:[s872](https://findingseth.com/q/session:872+AND+book:nome+AND+stemmed:abilities/)_
+  - development of one's, _SM:c19, NoPR:s654, NoPR:s676, UR2:s724, NoME:s804, ME:s866, WTH:c4, WTH:c12_
+- abortion, _SM:App, [UR2:s730](https://findingseth.com/q/session:730+AND+book:ur2+AND+stemmed:abortion/), [NotP:s765](https://findingseth.com/q/session:765+AND+book:notp+AND+stemmed:abortion/), [WTH:s6/15](https://findingseth.com/q/date:'June+15%2C+1984'+book:wth+AND+stemmed:abortion/)_
+- accidents, _NoPR:s615_
+- acting ability, natural, of humans, _TMA:s17_
+- action
+	- definition, _SDaPoC:c01_
+	- identity and, _SM:c16_
+	- impeded, results of, _SM:c13_
+	- resulting in existence, _SM:c16_
+	- solidified, _SDaPoC:c05_
+- within time, beginning of, _DEaVF1:s904_
+- Adam and Eve story, _NoPR:s647, NoME:s853, DEaVF1:s899_
+- Adventures in Consciousness: An Introduction to Aspect Psychology (Roberts), UR1:Int, UR1:s680n, UR2:s705, UR2:s708, UR2:s718
+- affirmation of self. _See self-approval_
+- The Afterdeath Journal of an American Philosopher: The World View of William James, UR2:s718, NotP:Int
+- afterlife. See death, between-lives period after
+- age regression, _EP:c07, EP:c11_
+- aggression, _NoPR:[s634](https://findingseth.com/q/session:634+AND+book:nopr+AND+stemmed:aggression/)–[s635](https://findingseth.com/q/session:635+AND+book:nopr+AND+stemmed:aggression/)_
+	- artificial, _NotP:s795_
+	- natural, _NoPR:s642–s644, NoPR:s663_
+	- released in war, _NoPR:s673_
+	- treatment of, via dreams, _SM:c14, SDaPoC:c14_
+- aging
+	- beliefs about, NoPR:s627, NoPR:s641, NoPR:s644, NoPR:s648, NoPR:s650–s651, NoPR:s656, NoPR:s660, DEaVF1:s902, WTH:s6/07
+	- definition, SDaPoC:c01
+	- experiences of Rob's mother, NoPR:s671
+	- how to rejuvenate, NoPR:s669
+	- long lives of early humans, DEaVF1:s902
+	- second puberty, NotP:s770
+	- "senility" symptoms, SM:c13, SS:s532, SS:s535, NoPR:s650, NoME:s804
+- AIDS, WTH:s4/25, WTH:s6/14
+- Akashic Records, UR2:s714
+- Akins, Louise, UR2:s740
+- All That Is, SS:s559, SS:s587, SS:s589, DEaVF1:Int08
+- agony of nonbeing, SM:c18
+- characteristics, SM:c18, SS:s560–s561, SS:s565, SS:s580, NotP:s774, DEaVF1:s882–s884, DEaVF1:s886,
+- DEaVF1:s889, DEaVF1:s893–s894, DEaVF2:s916 human representations of, SS:s585
+- origin of, SM:c18
+- alpha state. See brain, frequencies of
+- alternate focus. See consciousness, alternate states of American Society for Psychic Research, SM:c06
+- Anderson, Ernfred, EP:c04
+- angels, UR1:s691
+- animal-human combinations. See human-animal combinations animals
+- See also pets
+- behavior in nature preserves, NotP:s769 characteristics, NoTP:s799, DEaVF1:s907
+- consciousness of, UR1:s689, NoME:s840n, DEaVF1:Pre, DEaVF2:s919 dreams of, UR2:s721
+- experiments on, NoME:s850, WTH:s4/27
+- health and illness of, NoPR:s648, NoPR:s661, NoME:s802 imagination of, ME:s804, ME:s829
+- mass herd consciousness, UR1:s683 no limit to development of, SS:s581 not yet discovered, WTH:s1/10 quality of life of, NoME:s805, ME:s832 reasoning by, TMA:s06
+- slaughtering of, UR1:s687, WTH:s4/27
+- animus and anima, SS:s555–s557, UR2:App18n
+- antibiotics, reaction to, WTH:s2/10–s2/12
+- antimatter, SS:s575
+- apartment arrangement at 458 West Water Street, SM:c05, SDaPoC:c10
+- See also north-south body position apparitions, SM:c10, SS:s537, SS:s540
+- See also thought-forms
+- how to deactivate your own, SS:s575
+- independent and dependent, EP:c14
+- nature of, EP:c14
+- objectified. See York Beach episode and fragments seen during a Seth session, EP:c13
+- archetypes, SS:s555 art
+- as an expression of love, NotP:s771 creation of, DEaVF1:s907n
+- of early humans, DEaVF1:s893 enjoyment of, as therapy, NoPR:s640 excellence in, SDaPoC:c22
+- genetics and, DEaVF2:s913
+- reasons for, in historical periods, DEaVF2:s913 relation to the inner senses, SDaPoC:c07 therapeutic uses of, SM:c15
+- arthritis, WTH:s1/26
+- Aspect Psychology (Roberts), NoPR:Int, NoPR:s677
+- associative thought processes, SDaPoC:c16, NotP:s759, NoTP:s764, NoTP:s788, NoME:s825 astral body, EP:c15, SS:s530, SS:s540
+- abilities of, SS:s537
+- use in the dream state, SDaPoC:c19
+- astral cord, SDaPoC:c19
+- Astral Projection (Fox), SDaPoC:c19
+- astral projections. See projections, astral astrology, UR2:s729–s730
+- athletic training, beliefs about, DEaVF1:s902
+- Atlantis, SS:s558, SS:Apps593, UR2:s714, UR2:s742, UR2:App14 Augustus (pseudonym), NoPR:s627–s629, NoPR:s633, NoPR:s663
+- aura, human, EP:c14
+- autism, NoME:s866
+- automatic speech, EP:c02
+- in age regression, EP:c11
+- change in Jane's characteristics during, EP:c13, SDaPoC:Pre Father Trainor's voice in, EP:c13
+- vs. automatic writing, SDaPoC:c08
+- automatic writing, EP:c02, EP:c07, UR2:s718 afterlife personalities and, EP:c14
+- 
+- in age regression, EP:c11 by Jane Roberts, SDaPoC:c17
+- B
+- Bach, Richard, NoPR:s613, NoPR:s618, NoPR:s620, NoPR:s626, UR2:s732, UR2:s744n Bailey, Alice, automatic writing method of, SDaPoC:c17
+- Baker, Bill (pseudonym), DEaVF2:s920
+- Baker, Jim, WTH:s3/19
+- Barclay, John (pseudonym). See Bradley, John
+- Barnard, Dr. Eugene, SM:c09
+- BBC series on Jane's work, WTH:s3/25
+- Beal, James ("Jim"), SDaPoC:Pre, SDaPoC:c17
+- beliefs
+- affirmative, NoPR:s675
+- bridge, NoPR:s645
+- changing, effects on others, NoPR:s622
+- compulsive action and, NoPR:s660
+- conflicting, NoPR:s627–s628, WTH:s5/29–s5/31, WTH:s6/01, WTH:s6/19–s6/20
+- how to resolve, NoPR:s629, WTH:s6/12 core, NoPR:s617–s618, NoPR:s645 cultural, TMA:s10
+- definition, NoPR:s623
+- diagrams of prejudicial, NoPR:s649 effects of, NoPR:s643, NoPR:s647 emotions and, NoPR:s614, NoPR:s664 expanding, examples of, NoPR:s614 false, examples of, NoPR:s614
+- how to examine and change, NoPR:s615–s616, NoPR:s618–s624, NoPR:s642, NoPR:s644, NoPR:s656–s661, NoPR:s676, WTH:s6/03, WTH:s6/08
+- illness-related. See illness, beliefs about mass, NoPR:s649
+- modifying, in a "past" life, WTH:s6/15 negative, NoME:s840
+- optimum for health, WTH:s2/02
+- probabilities and, NoPR:s653
+- reaction after death to one's, DEaVF2:s912
+- role in idea construction, NoPR:s613–s617, NoPR:s627
+- See also idea construction
+- sudden reversals of, WTH:s6/24 translated into physical codes, NotP:s771 using, to create your life, NoPR:s677
+- The Bible, NoME:s821, DEaVF1:s902n creation story, DEaVF2:s928
+- early versions, WTH:s1/25 Gospel, counterfeit, in, NoPR:s674 lost portions, NotP:s771
+- bibliography of ESP-related publications, EP:c15 big bang theory, NotP:s787, NoME:s872
+- Bigfoot, WTH:s1/10
+- birds
+- prehistoric, UR1:s691
+- shooting of, in Elmira, SDaPoC:c11 birth, WTH:s1/27
+- See also fetus; infants and children
+- child's abilities at, SS:s519, NoPR:s610
+- conditions at, UR1:s679, NoME:s805
+- events preceding, SS:s557, UR2:s729, NoME:s826 shock of, SDaPoC:c11, SS:s513
+- bisexuality, humans', NotP:s769–s771
+- 
+- black holes, UR2:App19n
+- blood pressure, high, NoME:s805
+- blueprints, psychic, SM:c18, SDaPoC:c10, NoPR:s672, UR1:s689, UR1:s696–s698,
+- UR1:s702–s703, UR2:s725, UR2:s742, NotP:s762, NoME:s866, ME:s870 Blumenthal, Steve and Tracy, WTH:s1/09, WTH:s1/23
+- body, human, NoPR:s630, UR1:s685, NoME:s804
+- definition, SDaPoC:c01
+- disabilities and illness. See illness; pain and suffering; viruses formation of, SS:s520, SS:s530, NoPR:s610, NoPR:s623–s625 involuntary system of, NoPR:s626
+- magical reasoning of, TMA:s09
+- materialization of the astral form, SS:s530
+- mental pattern of, NoPR:s626
+- predictive picture of, in maintaining health, NoPR:s632
+- purpose of, NoPR:s626
+- reflects one's psychological state, NoME:s866
+- relationship to the natural environment, NoPR:s664
+- seen as a mechanical model, WTH:s3/23
+- self-regulation of, NoPR:s634
+- weather knowledge of. See weather, humans' involvement with
+- body consciousness, SS:s535, NoPR:s610, NoPR:s624, DEaVF1:s898, WTH:s1/05, WTH:s3/16 activities before and after death, SS:s536
+- in early physical reality, DEaVF1:s894
+- of a fetus, SS:s557
+- functions of, NoPR:s630–s631
+- Borledim family of consciousness, UR2:s732, UR2:s737 Bowman, Helen, TMA:s10n
+- Boyles, Peg, SDaPoC:c17
+- Bradley, John, SM:c17, SDaPoC:c09, SS:s537
+- entity name "Phillip," SM:c05
+- first witness of a Seth session, SDaPoC:c10 Seth and woman in a bar, SM:c09
+- brain, SDaPoC:c16
+- changes in, during dreaming, NoPR:s668
+- frequencies of, SS:s573, UR2:App17
+- functions of, SDaPoC:c07, NoPR:s619, NoPR:s626, NoPR:s653, NotP:s793–s794 human, has always been its current size, WTH:s1/21
+- potential enhanced functions of, NoPR:s675
+- unused areas of, UR1:s692
+- Breton, Andre, SM:a
+- Brian, Mrs. (ESP class student), SM:c09 Bronson, Malba. See under seances brotherhood, UR1:s697, UR2:s741 Buddha, SS:s578
+- Buddhist religion, SS:s568, SS:s587 Bumbalo, Joe, WTH:s3/13, WTH:s3/15
+- death of, WTH:s8/03
+- Bumbalo, John, WTH:s1/14
+- The Bundu (Roberts), SDaPoC:c15, NoPR:s666
+- Burdo, Joseph Adolphe, EP:c01, UR1:s679n, UR1:App01, WTH:s1/23, WTH:s8/05
+- death of, WTH:s5/09
+- Butts, Linden (pseudonym). See Butts, Loren D. Butts, Loren D., SDaPoC:c04, UR1:s679
+- Butts, Robert F., Jr. ("Rob"), UR1:s679n
+- acting out session material, SS:s534 alternate selves
+- Jamaican woman, UR2:s721, UR2:App21
+- Miriam, UR2:s725
+- Nebene, UR2:s721
+- Roman soldier experiences, UR2:s715n, UR2:s716n, UR2:s721, UR2:s724, UR2:App22
+- 
+- art, NoPR:s669, NoME:s814n, TMA:s03
+- advice from Seth, SM:c08, SS:s526, SS:s534
+- portraits, SM:c08, SS:s582, SS:s584, UR1:s688, NoME:s834 Seth, painting of, SM:c08
+- back trouble, SM:c01–c02, SM:c05, SDaPoC:c09
+- brothers. See Butts, William Richard ("Dick"); Butts, Loren D. childhood and family life, UR1:s679–s680, UR1:s693n creativity of, UR1:s679, DEaVF1:Pre
+- credo on Framework 2, NoME:s815n
+- entity name "Joseph." See Joseph (entity name)
+- experiences after Jane's death, SDaPoC:Int
+- eyesight improvement, DEaVF1:s901n, DEaVF1:s902, DEaVF1:s905 final incarnation, UR2:s721
+- geese, UR2:Epi
+- grandmother of, NoME:s826
+- idea for a novel, TMA:s13
+- images received by, SM:c08
+- life in Denmark, SS:s534, SS:s541, SS:Apps595
+- male and female roles, beliefs about, NoME:s853
+- more sensitive to visual data than Jane, SDaPoC:c08
+- necessity of, in Seth sessions, SDaPoC:c05
+- parents. See Butts, Robert F., Sr.; Butts, Stella
+- personality fragment, child, SM:c02
+- a probable Rob, in Sue Watkins's dreams, SDaPoC:c17
+- probable selves, UR1:s681, UR1:App02
+- Dr. Pietra, SM:c15, SDaPoC:c18
+- projections by, SDaPoC:c19, SDaPoC:c21, SS:s583 relationship with Seth, SDaPoC:c05
+- talented people, beliefs about, WTH:s2/05 use of inner senses, SDaPoC:c08–c09
+- view of Jane's illness, DEaVF1:Int09
+- vision interruption, SS:s534
+- vision of Loren as a monk, SDaPoC:c03–c04 vision of self as an old man, UR2:s719 will (legal), DEaVF1:s887n
+- Butts, Robert F., Sr., UR1:s680, UR1:s683, UR2:s718n, UR2:s725n, NoME:s826
+- Butts, Stella, NoPR:s671, UR1:s680, UR1:s683, UR1:s826, UR2:s726, NoME:s826, DEaVF1:s891 Butts, William Richard ("Dick"), SDaPoC:c08
+- C
+- camouflage. See matter; physical reality
+- Camper, Dr. (pseudonym), DEaVF1:s888
+- cancer, NotP:s770, NoME:s805, ME:s866, WTH:s6/12
+- capital punishment, SS:s550, NoME:s854
+- Cardwell, Maude, TMA:For, WTH:s1/09, WTH:s1/16, WTH:s1/22, WTH:s1/28
+- Carlson, Sonja, SDaPoC:Pre
+- cause and effect, EP:c09, SM:c12, SDaPoC:c05, NoPR:s636, NotP:s783, NoTP:s788, NoME:s820 cavemen. See development, human, early man
+- Cayce, Edgar, EP:c15, SM:a
+- Cecce, Georgia, WTH:s1/13
+- cells
+- abilities of, UR1:s684, UR1:s686, UR1:s691, NotP:s788 affected by dreams, UR1:s698
+- communication by, UR2:s727, NotP:s792
+- do not have free will, NoPR:s637
+- probabilities and, UR1:s685, UR1:s688, UR1:s690, UR2:s707
+- properties, NoPR:s632, UR2:s705, UR2:s730, DEaVF2:s910, DEaVF2:s913 Cézanne, Paul, world view of, NotP:s762
+- change, beliefs about, NoPR:s669, NoME:s859
+- channeling. See automatic speech
+- 
+- chaos, NotP:s788
+- children. See infants and children
+- chiropractic treatment, SS:s555, NoPR:s659
+- choice within and outside of time, DEaVF1:s904
+- Christ. See Christian religion, Christ
+- Christian religion, SS:s546, SS:s568, SS:Apps594, NoME:s831, TMA:s11
+- Ascension, SM:c14, SDaPoC:c13
+- Christ, SM:c09, SM:c18, SS:s547, SS:s560, SS:s578, SS:s586, SS:s588, UR1:s690, UR2:s711,
+- NoME:s821, ME:s844
+- composite figure of, DEaVF2:s928
+- entity appeared at the time of Atlantis, SS:s558 symbolism of, NoPR:s674
+- teachings, NoPR:s673–s674
+- Christmas, NoME:s814
+- Crucifixion, SM:a, SM:c14, SDaPoC:c13, SS:s591, NoPR:s674, NoME:s829–s829n Disciples, SS:s560
+- John the Baptist, SS:s586, SS:s588, SS:Apps592
+- Paul (Saul), SS:s586, SS:s588, SS:Apps592, DEaVF2:s928 Peter, SS:s591
+- master events of, DEaVF2:s928 probable Christs, SS:s588 Resurrection, NoME:s829 Second Coming, SS:s586
+- chromosomes, ancestral knowledge in, UR2:s731 civilizations
+- alternate, NoME:s870
+- death of, NoME:s802 reincarnational, SS:s562–s563
+- clairvoyance, EP:c06, SDaPoC:c16 See also precognition
+- classifications, reincarnation within, DEaVF1:s903
+- co-creators, conscious, SM:c10, SM:c18, SS:s515, SS:s522, UR1:s688
+- code systems of consciousness, UR2:s708–s710, NotP:s771, NoTP:s785, NoTP:s788 cognition, direct, NoTP:s762, NoTP:s776, NoTP:s785, DEaVF1:s908–s908n, DEaVF1:s909 "coincidences," UR1:s693
+- Cole, Jack, SDaPoC:Pre
+- collective unconscious, SDaPoC:c16
+- colors, beliefs about, NoPR:s649
+- communication, definition of, SDaPoC:c01
+- comparing oneself to others, NoPR:s676–s677
+- compassion, birth of, NoPR:s634
+- competition, NoME:s868
+- among species. See evolution
+- compulsive behavior, NoPR:s660, WTH:s6/04 concentrate on, you get what you, NoPR:s617 conception rate, NotP:s765
+- cone effect during trances, SM:c17
+- conscience, NoPR:s636, NoPR:s638, NoPR:s646, NoPR:s648 consciousness, SDaPoC:c10, SS:s556
+- all are one, UR2:s727
+- in all things, SS:s512
+- alternate focus, UR2:s710–s716, UR2:s718, UR2:s721
+- alternate perception methods, SS:s577, UR2:s709
+- alternate states of, SS:s570–s573, SS:s576, NoPR:s667, UR2:App17
+- A-1 through A-3, SS:s574
+- A-4 through A-6, SS:s575
+- alternate present moments (A-1-a through A-1-c), SS:s574, SS:Apps595
+- as an attribute of an entity, SS:s519
+- cellularly attuned, generates dreams and thought, NotP:s785
+- 
+- characteristics, EP:c08, EP:c14, SM:c17, SS:s513–s515, SS:s534, SS:s575, SS:App-ESP2/9/71, NoPR:s609–s610, UR1:s697, UR2:s718, NotP:s788, NoTP:s796–s797, DEaVF1:s888, DEaVF1:s909, DEaVF2:s938
+- unpredictability, UR1:s681
+- comes before matter, SM:c10
+- dispersal of, SS:App-ESP1/12/71
+- dreams and, SDaPoC:c13
+- expansion of, SS:Apps596
+- families of. See families of consciousness
+- fluctuations, SS:s567, SS:s576, SS:App-ESP6/23/70, SS:App-ESP1/5/71, UR1:s684 fulfillment of. See value fulfillment
+- gestalts of, NoPR:s613, UR1:s683
+- human
+- alternate human species, UR1:s692, UR2:s708 characteristics, DEaVF2:s915
+- development of, UR1:s686–s687, UR1:App06 relationship to the body, UR2:s708, WTH:s3/16
+- manipulation of, SS:s534
+- mobility of, NotP:s774, NoTP:s776
+- operates within code systems, UR2:s708 perception and, SS:App-ESP1/12/71
+- predates the physical universe, NoME:s872 progress in development of, SS:s566 pulsations of, SS:s535
+- sacredness of all, SS:s550
+- of self, SM:c16, SDaPoC:c10, UR2:s705, UR2:s730 speed of, UR2:s709
+- trans-species structures of, NotP:s791
+- consciousness, body. See body consciousness
+- consciousness units. See CUs
+- constructions. See idea constructions
+- control personalities, mediums' work with, EP:c15
+- Conversations with Jane Roberts: A Multidimensional Memoir (Watkins), TMA:For Conversations with Seth (Watkins), SDaPoC:Int, NoME:s831, ME:s844, DEaVF1:Pre, DEaVF1:s885,
+- TMA:For, TMA:s05
+- cooperation, UR1:s690–s691, NotP:s769, NoME:s868, DEaVF2:s911
+- attribute of consciousness, SM:c10
+- necessary for life, DEaVF1:s893 coordinate points, SS:s569
+- births of religions and, SS:Apps593
+- locations of, SS:s525, SS:Apps593
+- types and properties, SS:s524–s525, SS:Apps593
+- cordellas, NotP:s783–s784
+- Corio, Frank, UR2:s740
+- correspondence, concept of, DEaVF2:s920n, DEaVF2:s931
+- cosmic consciousness, SS:Apps596
+- Coué, Emile, NoPR:s622, NoME:s835n
+- counterparts, UR2:s721, UR2:s724, UR2:s726, UR2:s729, UR2:s732, UR2:s734–s735,
+- UR2:s744n, UR2:App21–22, UR2:App25 creation
+- is constant, SM:c18
+- of other realities by human personalities, SM:App physical. See physical reality, "origin" of
+- Seth's model of, DEaVF1:s897
+- creation story, Biblical, DEaVF2:s928
+- creationism, theory of, UR2:App12, DEaVF1:s881n, DEaVF1:s882–s882n, DEaVF2:s937 creativity, DEaVF1:Pre, DEaVF1:s881
+- as a basic need, NoME:s863
+- basis for, DEaVF1:s885
+- beliefs about, WTH:s5/31 dreams and, NotP:s786, NoTP:s789
+- 
+- female aspects of, NoME:s853 origin of, SS:s531
+- play and, NoME:s801
+- synonymous with love, NotP:s792
+- creator
+- does not control creations, UR2:s733 vocation of, after final incarnation, SS:s547
+- Croiset the Clairvoyant, EP:c15, SM:c08 Crosby, Lanna, SDaPoC:c16
+- cults, UR2:s719, NoME:s857
+- religious, NoME:s845, ME:s852, WTH:s6/07 See also Jonestown "massacre"
+- scientific, NoME:s845, ME:s852
+- See also Three Mile Island nuclear plant
+- Cunningham, Miss, SDaPoC:c01, SDaPoC:c03, SDaPoC:c09, SDaPoC:c11, SDaPoC:c20 Curren, Pearl, EP:c01
+- CUs, DEaVF1:s886, DEaVF2:s918
+- creation of non-perceivable matter, DEaVF1:s889
+- EE units and, UR1:s683
+- properties, UR1:s682–s684, UR1:s688, UR1:s690, UR1:s701, UR2:s722, UR2:s725, NoME:s857,
+- DEaVF1:s889–s890, DEaVF1:s900, DEaVF2:s915–s917 cycles of energy, NoPR:s668
+- D
+- Da Vinci, Leonardo, SS:s575
+- Dahl, Lynda, TMA:For
+- daredevils, WTH:s3/15
+- Darren, Father, WTH:s1/10, WTH:s5/09 Darwin, Charles, UR2:App12n
+- See also evolution, Darwinian
+- view of man and nature, NoME:s831 David-Neel, Mrs., SM:a
+- Davies, Laurel Lee, SDaPoC:Int, TMA:For, TMA:s05n
+- essay on science vs. the magical approach, TMA:AppC day, length of, determined by consciousness, NoPR:s664 Dead Sea Scrolls, SS:Apps592
+- death, SM:c18, NoME:s801, ME:s803
+- activities before, SM:c12, SDaPoC:c11, SS:s535–s536, NotP:s786
+- between-lives period after, SM:c12, SDaPoC:c01, SS:s535–s537, SS:s539–s541, SS:s546–s547, SS:s590,
+- UR1:s683
+- evidence for, DEaVF1:s909
+- personalities in, EP:c14
+- Rob's mother's experience, UR1:s694
+- body's form after, DEaVF1:s886
+- chosen, SS:App-ESP2/9/71, NoPR:s631, NoPR:s664–s665, NoME:s801–s802, WTH:s6/11 defiers of, WTH:s3/15
+- departure of consciousness at, SS:s557, UR2:s708
+- desire for, NoME:s866, ME:s869
+- early instances of, WTH:s6/15
+- guides after. See guides during and after death
+- known "ahead of time," NoPR:s654
+- main choices after. See reincarnation; past, revision of; probability system memory after, UR2:s722
+- no need to fear, SS:s513
+- pain and suffering at, NotP:s779
+- prevention of natural, NoPR:s661
+- religions' effect on experience after, SS:s536
+- similar states in life, SS:s538
+- as a statement, NoME:s833
+- usefulness of, WTH:s3/13
+- 
+- deformities, physical, DEaVF1:s909
+- Delisle, Suzanne, TMA:For
+- democracies, UR1:s690, NoME:s857 depression, NoPR:s642, WTH:s1/12, WTH:s6/09
+- remedies for, WTH:s6/10, WTH:s6/20
+- sleep periods and, SS:s532 determinism, DEaVF1:s907n development, human
+- See also consciousness, human; sleepwalkers current beliefs undermining, NoME:s805
+- early man, SS:s562, SS:s568, NotP:s765
+- abilities of, NotP:s777, TMA:s17 cooperation in the lives of, WTH:s1/21 inventions of, DEaVF2:s922
+- long lives of, WTH:s1/23
+- perceptions of, NoME:s828, ME:s830 use of night by, TMA:s15
+- first humans to the moon, UR1:s702
+- history of, UR1:s688–s689, UR1:s693, UR1:App06, UR2:s731, UR2:App12, UR2:App23, NotP:s776–s777,
+- NotP:s787, NoTP:s796, DEaVF1:s889
+- history of self-image in, TMA:s14
+- ideal of, NoPR:s655
+- male-female characteristics, NotP:s772
+- more conscious of Framework 2, NoME:s828
+- need for meaning in life, NoME:s832–s833
+- "race will not endure unless..." prediction, UR1:s687 roles of heredity and environment in behavior, NoME:s827 source of, DEaVF2:s922
+- devil, SS:s568, NoPR:s647, UR2:s711, DEaVF2:s921
+- Dialogues of the Soul and Mortal Self in Time (Roberts), NoPR:Int, NoPR:s639, NoPR:s677,
+- UR2:s705, UR2:s715n, UR2:s718, UR2:s744 use of, by Jane, NoPR:s645
+- dilemmas resulting in existence, SM:c16 direct knowing, definition of, SS:s571 disaster, nuclear, UR2:s705
+- disasters, natural. See natural disasters discipline as a form of suffering, DEaVF1:s896 disease. See illness
+- dissociated states, SM:c05, SDaPoC:c05 benefits of, SDaPoC:c06
+- cone effect during, SM:c17 hypnotic, EP:c07–c08
+- light and deep, EP:c07–c08, SDaPoC:c06 mediumistic, EP:c15, SM:a
+- misuse of, SDaPoC:c10
+- uncovering problems with, SM:c13
+- distortion
+- in communications from non-physical entities, SM:c17, SDaPoC:c10, SS:s513 symbols indicating, in historical records, SS:Apps592
+- dolphins, UR1:s688, UR2:s730
+- drama, origins of, DEaVF2:s934
+- dramas, religious. See religious dramas dream-art scientist, UR1:s698, UR1:s700 dream body, changes of form, SDaPoC:c19–c20 dream laboratories, UR1:s700
+- dream time early in physical reality. See physical reality, "dream time" early in dreaming self
+- aware of the probable self, SDaPoC:c18
+- memories of, SDaPoC:c18
+- dreams, SS:s519, UR1:s698–s699, NotP:s755, DEaVF1:s881, DEaVF2:s935
+- 
+- See also dream body; dreaming self action and, SDaPoC:c13
+- alteration of beliefs in, NotP:s792 alteration of focus in, UR2:s719 awareness of other selves, SS:s531 basic reality in, SDaPoC:c22
+- "body" dreams, NotP:s794
+- child's. See infants and children, dreams
+- clairvoyant, EP:c05–c06
+- communication with related personalities, SDaPoC:c05, NoPR:s668
+- communication with the entity from, SS:s528
+- construction and characteristics, SM:c14, SDaPoC:c13, SS:s531, SS:s538, SS:s570, SS:App-ESP1/5/71,
+- NoPR:s654, NoPR:s669–s670, NotP:s756, NoTP:s759, NoTP:s782, DEaVF1:s898
+- creativity and, NotP:s789
+- data required for, NotP:s789
+- definition, SDaPoC:Pre
+- double or triple (simultaneous), UR1:s692, NotP:s794, DEaVF1:s903n
+- in early physical reality, DEaVF1:s892
+- egos can merge in, NoME:s822
+- event formation in. See events, formation of
+- forgotten, reason for, NotP:s796
+- genetics and, DEaVF2:s911–s912
+- God-dramas in, SS:s560
+- group, DEaVF2:s933–s935
+- hallucinations in, SS:s536, UR2:s720
+- how to examine and interpret, SDaPoC:c12–c13, NoPR:s621, UR1:s699, NotP:s763, NoTP:s790 how to promote, NoTP:s795
+- human, responsible for human evolution, NoME:s867
+- ideals formed in, NoPR:s672
+- infants' and children's, NotP:s795
+- information gathering in, NotP:s791
+- language in, UR2:s723
+- levels within, UR2:s710
+- locations in, EP:c14, SDaPoC:c12–c13
+- lucidity and manipulation in, SM:c14, SM:c19, SDaPoC:c20, SS:s514, NoPR:s670–s672 mass, SM:c14, SDaPoC:c16, DEaVF1:s903n
+- medications' effect on, SS:s532
+- mood-changing, SDaPoC:c14
+- necessity for, NotP:s795
+- other lives depicted in, NoME:s806
+- personalities in, EP:c14, NotP:s758
+- pleasurable effect of, DEaVF2:s933
+- precognitive, EP:c04, EP:c06, SDaPoC:c12, SS:App-ESP1/5/71
+- examples, SDaPoC:c15–c16
+- how to record and interpret, SDaPoC:c15 and layers of the subconscious, SDaPoC:c16
+- predream state, NotP:s788–s789
+- preventing illnesses via, NotP:s796
+- probabilities and, SDaPoC:c17–c18, SS:s566, UR1:s687 production increases near death, NotP:s786
+- projections from, SM:c14, SDaPoC:c19
+- purpose of, NotP:s790, NoME:s844n, DEaVF1:s890, DEaVF2:s936 rapid eye movements (REM) in, SDaPoC:c13
+- reasoning within, DEaVF1:s908
+- reflect events "elsewhere," NotP:s787
+- reincarnational aspects of, EP:c12
+- relationship to waking reality, SDaPoC:Pre
+- repercussions of, in physical reality, SDaPoC:c13
+- root, SDaPoC:c18, SS:s550
+- root assumptions in, SDaPoC:c12
+- 
+- shared, SM:c14, SDaPoC:c16, DEaVF1:s903n
+- sleep deprivation and, SDaPoC:c13
+- symbols in, EP:c12, SM:c14, SS:s572, UR2:s710, UR2:s721, NotP:s756 therapeutic, SM:c14, SDaPoC:c14, SS:s555, NoPR:s640–s641, UR1:s698, NoTP:s758 time in, SDaPoC:c10, SDaPoC:c12, UR2:s722, NoTP:s783
+- when not to explore, SS:s538
+- Dreams, "Evolution," and Value Fulfillment: A Seth Book (Roberts), NoME:s862, ME:s869, DEaVF1:Int, DEaVF1:Int02, DEaVF1:Pre, DEaVF1:s881, DEaVF1:s886, DEaVF1:s909, DEaVF2:Int
+- drugs
+- medicinal. See medications psychedelic, UR1:s687
+- effects on perception, SDaPoC:c22 LSD, NoPR:s638–s639
+- peyote, NoPR:s638
+- recreational, NoPR:s660
+- Druids, Speakers among the, SS:s568 dual-hybrid constructions, SM:c14 Dunne, J. W., EP:c04, EP:c15 duration in space or time, NoPR:s613
+- E
+- early man. See development, human, early man The Early Sessions (Roberts), TMA:For
+- earth, planet
+- changes to, DEaVF2:s918
+- no end to, TMA:s17
+- original manifestation of, DEaVF1:s883 a planet prior to our, DEaVF1:s903
+- earth environment (nature), NotP:s790, NoME:s821 as caretaker of humans, TMA:s08
+- formation of, NoPR:s610, NoME:s872
+- humans' role in, DEaVF1:s899, TMA:s08
+- inner laws of, NoME:s862–s863 love of, NotP:s774, NoTP:s776 mental patterns behind, ME:s803 spirits of, DEaVF2:s938
+- earth species, consciousness of, DEaVF2:s919 earthquakes. See natural disasters
+- eating
+- extreme practices, WTH:s6/27
+- "good" and "bad" foods, NoPR:s646, NoPR:s660
+- meals, recommended number of, SS:s532, NoPR:s652 overconcerns about, WTH:s6/27
+- without killing animals, UR1:s687
+- Edsall, F. S., SM:a
+- education, NotP:s762, TMA:s10
+- The Education of Oversoul Seven (Roberts), NoPR:Int, NoPR:s610, NoPR:s613
+- film rights to, DEaVF1:s885, DEaVF2:s920, DEaVF2:s931
+- EE units, SM:App, SS:s525, SS:s581, SS:Apps593, UR1:s682n, UR1:s688, UR1:s694,
+- UR2:s709, NotP:s789, NoTP:s797, DEaVF1:s890 relationship to coordinate points, SS:s524
+- effortlessness in idea construction, TMA:s14
+- ego, inner. See inner self
+- ego (outer), EP:c12, EP:c14, NoPR:s613, NoPR:s638, NoME:s822
+- alteration of, SDaPoC:c18, NoPR:s639
+- censoring by, SDaPoC:c16
+- characteristics, EP:c01–c02, SM:c16, SM:App, SDaPoC:c06, SDaPoC:c12, SS:s512, SS:s531, NoPR:s610, WTH:s3/18 creation of each, SDaPoC:c13
+- development of an, SM:c18, UR1:s690, NotP:s768, DEaVF1:s894
+- dreams and, SDaPoC:c12
+- 
+- effect on perception by, EP:c08 future of, SDaPoC:c16
+- levels of, UR1:s686
+- multiple egos, SDaPoC:c18
+- not in the dream state, SM:c14 probabilities and, SM:c15
+- reason for, SDaPoC:c09
+- reincarnation's effects on, SM:c12 relationship to its entity, SDaPoC:c13, SS:s526 represented by the Hebrew god, SS:s587 result of group consciousness, SS:s568 role of, NoPR:s615–s617
+- Egyptians
+- pyramids of, SS:s524
+- Speakers among the, SS:s568–s569
+- Einstein, Albert, UR1:s701, NotP:s772
+- electrical system, characteristics of, SDaPoC:c13
+- electromagnetic energy units. See EE units
+- electromagnetic values' role in idea construction, NoPR:s623
+- Emerson, Ralph Waldo, SS:s578, NoPR:s638, NoPR:s653
+- Emir, Jane's dream about, NoME:s814
+- Emir's Education in the Proper Use of Magical Powers (Roberts), NoME:s815, DEaVF2:s931
+- change in publisher, NoME:s831 emotions, NoPR:s673–s674
+- See also fear; hate; joy; love; rage achievement in the area of, DEaVF2:s914 association and, NotP:s759
+- definition, SDaPoC:c01
+- expression of, NotP:s776, NoTP:s795, WTH:s4/27, WTH:s5/02
+- fear and repression of, SM:c13, SS:App-ESP1/12/71, NoPR:s652, UR1:s686, DEaVF1:s896 how to examine and change, NoPR:s642–s644, NoPR:s646
+- how to react to, SM:c13, NoPR:s672
+- in the magical approach to life, TMA:s06
+- "negative," NoPR:s634
+- role in idea construction, SS:s520, NoPR:s619–s620, NoPR:s625, NotP:s764, NoTP:s782 solidified, SDaPoC:c04
+- end justifies the means, WTH:s6/22 energy
+- characteristics, NotP:s787, DEaVF1:s884, DEaVF2:s941n cycles of, NoPR:s668
+- definition, SDaPoC:c01
+- love and, WTH:s3/20
+- entity, SS:s512, DEaVF1:Int07
+- characteristics, SM:c12, SS:s513, SS:s519, SS:s526–s528, SS:s559, SS:s565, SS:s590, NoPR:s637,
+- NoPR:s655, UR1:s692, UR2:s724
+- development of, SS:s521, SS:s568
+- fragment can become, SDaPoC:c05
+- not a closed system, SS:s528
+- relationship to its personalities, SM:c01, SM:c05, SDaPoC:c10, SS:s522, NoPR:s668
+- entropy, SS:Apps593, NoME:s820, DEaVF1:s897 envelope experiments, EP:c15, SM:c07
+- end of, SM:c08 environment
+- conditions of, known in the dream state, NotP:s791 definition, SDaPoC:c01
+- role in human behavior, NoME:s827
+- epidemics, NoME:s801–s802, ME:s804, ME:s821, ME:s835 epilepsy, NoPR:s664, WTH:s1/05, WTH:s5/30
+- ESP, SM:a
+- bibliography of publications on, EP:c15
+- 
+- cards, EP:c06
+- conditions for best results, SM:c08
+- definition, EP:Int
+- demonstrations of, in Seth sessions, SM:c09
+- investigation of, EP:c15
+- limitations of, SS:s527
+- specific abilities. See clairvoyance; telepathy; inner senses type of material received, SM:c08
+- ESP classes, Jane's, SM:In2, SM:c05, SDaPoC:Pre, SS:s576, UR2:s744n an "un-class," DEaVF1:s905
+- documentation from, DEaVF2:s936
+- quotations from, DEaVF2:Int
+- "suspended" (as of 2/25/1975), UR2:s740n Essenes, SS:s588, SS:s558, SS:Apps592 ether, luminiferous, NoME:s822n
+- ethics from extraterrestrials, SS:s558
+- events
+- destructive, WTH:s6/22
+- formation of, SDaPoC:c18, SS:s539, NoPR:s610, NotP:s784–s789, NoTP:s792, NoME:s826, DEaVF2:s932–s933, TMA:s13
+- See also Frameworks 1 and 2
+- mass. See mass events
+- master, DEaVF2:s919, DEaVF2:s928, DEaVF2:s932
+- mental, NotP:s780
+- unpredictable, in the current environment, DEaVF2:s937
+- evil, SS:s538, SS:s550, NoPR:s648, NoME:s868, DEaVF2:s921 See also good and evil
+- beliefs about, SS:App-ESP1/12/71, NoPR:s663 creation of, NoPR:s615
+- symbols of, SS:s568
+- evolution, SDaPoC:c01, SS:s582, UR1:s688–s689n, UR1:s690, UR2:s705, UR2:s730,
+- UR2:s741, UR2:App12, NotP:s797, NoME:s802n, ME:s868, ME:s872, DEaVF1:s881–s882n,
+- DEaVF1:s887, DEaVF2:s914, DEaVF2:s937
+- beliefs inherent in the theory of, NoME:s829 concept of time in, DEaVF2:s919
+- Darwinian, NoME:s863
+- health and, WTH:s4/03 human, DEaVF1:s903 Neo-Darwinism, UR2:App12n
+- excellence, DEaVF2:s912 exercises from Seth
+- Alter sequences of events., NotP:s764
+- Alter your focus, UR1:s701
+- Ancestors and family as one tribe, UR1:s695 Attention to past and future, UR2:s708 Class photograph, UR1:s697
+- Construct and interpret a dream., NotP:s764 Eliminating conflicting beliefs, WTH:s6/12 Eliminating disease, WTH:s6/12
+- Energy from your entity, NoPR:s637
+- Expand dream space, UR2:s721
+- Expand dream time, UR2:s721–s722
+- Experience events outside time sequences, NotP:s764 Experience outer sense data fully, UR2:s716 Experience probabilities, UR1:s687
+- Express anger in illness, WTH:s6/13
+- Follow the unchosen probability, UR2:s707
+- Fully perceive an orange., NotP:s794
+- Interpret waking experience as a dream., NotP:s764 Invoke a helper, WTH:s6/12
+- Let your consciousness stray, UR2:s716
+- 
+- Make spontaneous sounds, UR2:s723 Miniature self from a photo, UR2:s719 Move your point of perception., NotP:s764 Natural hypnosis, NoPR:s658
+- Point of power, NoPR:s656
+- Predict future events., NotP:s764
+- prerequisite for "Unknown" Reality exercises, UR2:s719 Pretend you are the opposite sex., NotP:s795
+- Pretend you're awake while you sleep., NotP:s764 Rearrange life events., NoTP:s764
+- reasons for not doing these exercises, NotP:s764
+- Sad and happy thoughts, NoPR:s633
+- See another location in the present., NotP:s793
+- See subjectivity as physical reality's source, NoME:s830 See the world before you entered., NotP:s793
+- See your location in another time., NotP:s793
+- See yourself in another time., NotP:s793
+- Send your consciousness traveling., NotP:s793
+- Sense your feeling tones, NoPR:s614
+- Sense your power, SS:s527
+- Subjective experience, SS:s591
+- Take a dream snapshot, UR2:s719–s720
+- Three photographs of oneself, UR1:s695
+- Tracing probabilities, UR1:s695
+- Use of the imagination, NoPR:s669
+- Use of the inner senses, SS:s522
+- expectations, DEaVF1:s891
+- experience, primary and secondary, NotP:s799 extinction, NoME:s840, DEaVF2:s916 extraterrestrials, UR2:s712
+- ethics from, SS:s558 exuberance, WTH:s1/09 eyeglasses, need for, NoPR:s623
+- F
+- fairy tales, DEaVF1:s891
+- families of consciousness, UR2:s732, UR2:s734, UR2:s740, UR2:App26 fanaticism, NoME:s848, ME:s850, ME:s852, ME:s854, ME:s856–s857, TMA:s14 fear
+- See also paranoid behavior behind hatred, NoPR:s644
+- created by psychology, NoME:s866 distortion created by, SS:s573 effect on health, WTH:s4/17
+- how to cope with and overcome, NoPR:s663, NotP:s796 of oneself, NoME:s835
+- prevention methods based on, NoME:s814
+- of pseudothreats, NoME:s804
+- use of, NoME:s821
+- feeling-tones, NoPR:s610, NoPR:s613, UR2:s714 Fein, Ben, UR2:s732
+- Fell, Frederick, SM:c06
+- submission of The Seth Material to, EP:c05 fetus
+- abilities of, SM:App, UR2:s727
+- entrance of the inner self into, SS:s557 entrance of the soul into, UR2:s730
+- role of previous incarnational self with, SM:App
+- Field, William, EP:Int
+- fifth dimension, SM:c03–c04, SM:c18, SDaPoC:c03
+- 
+- fleas, benefits of, WTH:s4/25
+- flood in Elmira, June 1972, NoPR:Int, NoPR:s613, NoPR:s665–s666 floods. See natural disasters; flood in Elmira, June 1972
+- flu and flu vaccinations, NoME:s814
+- flying, origin of, UR2:s713
+- flying saucers, SDaPoC:c05, SS:App-ESP1/12/71, UR2:App20 focus, alternate. See consciousness, alternate focus
+- foods. See eating
+- form, NoPR:s655
+- identification with, by consciousness, UR1:s688 non-physical, construction of, SS:s530 permanence is an illusion, SS:s520 pseudophysical. See thought-forms
+- Fox, Oliver, SDaPoC:c19 fragments, DEaVF1:s903n
+- animal, formation of, SS:s581 definition, SS:s582
+- human personality, SDaPoC:c17, SS:s512
+- Frameworks 1 and 2, NoME:s814–s815, ME:s817–s818, ME:s820, ME:s822–s823, ME:s825–s829, DEaVF1:Int07, DEaVF1:s893n, TMA:Int, WTH:s6/12
+- Frameworks 3 and 4, NoME:s814n, ME:s818
+- free association, WTH:s4/19–s4/20, WTH:s4/27
+- free will, SM:c11, SM:c18, SDaPoC:c10, SDaPoC:c16, SS:s562, NoPR:s621, NoPR:s634, NoPR:s637,
+- UR1:s704, NoME:s856, DEaVF1:s907n, WTH:s6/17 among all species, ME:s866
+- human genetic structure and, DEaVF1:s907 within time and space, DEaVF1:s904
+- Freud, Sigmund, NotP:s771, NoME:s831
+- Freudian psychology, NoME:s859, ME:s863
+- Friede, Eleanor, NoPR:s618, DEaVF1:s883
+- From This Rich Bed, NoPR:s636
+- The Further Education of Oversoul Seven (Roberts), NoPR:s648, NoME:s821 future
+- definition of, SDaPoC:c01
+- optimism about, NotP:s799
+- perception of the, SS:s530, NoPR:s653, UR1:s686 revision of the, SS:s566
+- Seth's depictions of, SS:s586, UR1:s687, UR2:s742
+- future self, action of, on the present self, NoPR:s675
+- G
+- Gallagher, Margaret and William
+- in Nassau, SM:c08
+- in Puerto Rico, SM:c07
+- at a Seth session, SDaPoC:c12
+- Gallagher, Margaret ("Peg"), EP:c06, EP:c13, WTH:s1/18 Gallagher, William ("Bill"), EP:c13, UR2:s732, UR2:App25 Gandee, Lee R., UR1:s692n
+- Garden of Eden, DEaVF1:s899, DEaVF1:s904
+- Garret, Sam, UR2:s732
+- Garrett, Eileen, SM:a
+- geese, Rob's affinity for, NoPR:s648 genes, DEaVF1:s905n
+- patterning of nonpredictable, DEaVF2:s937
+- "selfish," NoME:s821n
+- genetic knowledge, species', DEaVF2:s916, DEaVF2:s935 genetic structure, human, DEaVF1:s907, DEaVF2:s912
+- flexibility in, DEaVF2:s909–s910, DEaVF2:s910n, DEaVF2:s911
+- requirements for healthy, DEaVF2:s914 gestalts, psychic, SM:c18
+- 
+- ghosts. See apparitions
+- giants, SS:s563
+- Gnosticism, SS:App-ESP1/12/71 God concept, Seth's. See All That Is God-dramas, SS:s560
+- The God of Jane: A Psychic Manifesto (Roberts), NoME:s823, ME:s860, DEaVF1:Pre gods, UR1:s690
+- creation and attributes of, SS:s586
+- earth, SS:s562, UR1:s691
+- humans' ideas about, SS:s560, UR1:s687, UR1:s689, NotP:s772, NoTP:s781, DEaVF2:s921, TMA:s11 psychic reality of, SS:s587
+- symbolism of, SS:s569
+- good and evil, SS:s528, SS:s546, NoPR:s647, NoPR:s649–s650, NoPR:s653, UR2:s719, NotP:s782, NoME:s868, DEaVF2:s919
+- See also evil
+- development of, in early humans, DEaVF1:s899 good intent, WTH:s2/07
+- grace, state of, NoPR:s636–s638, NoPR:s646, NoPR:s649, DEaVF2:s922 Gramacy, TMA:AppC
+- Gramada family of consciousness, UR2:s732, UR2:s736 Granger, Bill (pseudonym). See Gallagher, William ("Bill") gravity, early state of, DEaVF1:s892–s893
+- Gray, Bill and Beverly, SDaPoC:c20
+- growth, definition of, SDaPoC:c01
+- Grunaargh family of consciousness, UR2:s737–s738, UR2:App27 guardian angels, SS:s569
+- guides during and after death, SM:c12, SS:s536
+- guilt, SS:s550
+- natural and artificial, NoPR:s634–s636, NoPR:s647, NoPR:s663 Guy, Dr. LeRoy (pseudonym), DEaVF1:s888
+- H hallucinations
+- in dream reality, UR2:s720
+- induced by hypnosis, EP:c15
+- Hariston, Emma (pseudonym), UR2:s732 Harris, Debbie, TMA:For
+- hate, NoPR:s663, NoPR:s673
+- disastrous results of, SS:s550
+- no justification for, SM:c18
+- healer, vocation of, after final incarnation, SS:s547 healing
+- beliefs that prevent, WTH:s2/05
+- heat involved in, WTH:s1/18
+- long distance, UR2:s712–s712n
+- natural, abilities of, NoPR:s632, NoPR:s639–s640, UR2:s708, NotP:s758, TMA:s09 by revision of the past, NoPR:s654
+- health
+- See also illness; physician, complete
+- aids, WTH:s6/13
+- beliefs about, NoPR:s624, NoPR:s626, NoPR:s648, UR1:s704, WTH:s1/29, WTH:s1/31, WTH:s2/01, WTH:s3/27,
+- WTH:s6/03, WTH:s6/07, WTH:s6/12
+- children and, WTH:s5/13–s5/14, WTH:s5/18, WTH:s5/22
+- climate and, WTH:s2/22
+- creation of, SM:c13
+- disease as a form of, WTH:s3/15
+- effects of thoughts and emotions on, NoPR:s633, WTH:s4/04, WTH:s4/06, WTH:s4/17 how to talk about, WTH:s1/09
+- humor's role in, WTH:s6/13
+- practice: no refrigerator in the bathroom, SM:c05
+- 
+- public, announcements about, NoME:s805, ME:s814 reflected in plants and pets, UR2:s708 reincarnation and, WTH:s4/02
+- religious beliefs and, WTH:s4/03
+- stages of, WTH:s3/13
+- suggestions and, WTH:s4/08–s4/10 survival of the fittest and, WTH:s4/03 value fulfillment and, WTH:s4/12
+- heart, symbolism related to the, WTH:s3/23
+- heaven, SS:s535, SS:s546, NoPR:s647, NoME:s822, WTH:s6/26 Hebrew god, emergence of, SS:s587
+- Heisenberg, Werner, UR1:s681n, NoME:s823
+- hell, SS:s535, SS:s546
+- help
+- asking for, NoPR:s677
+- how to give, NotP:s800
+- hereditary disorders. See illness, hereditary disorders heredity's role in human behavior, NoME:s827
+- Herriman, Bill (pseudonym), UR2:s732, UR2:App25
+- high intellect, UR2:s715, NotP:s773, DEaVF2:s914–s915, DEaVF2:s917 hill house, SDaPoC:Int, UR2:s736–s737, UR2:s741, DEaVF2:s913
+- beginning of hunt for, UR2:s735 natural environment around, DEaVF1:Pre Seth's comments on, UR2:s738–s739
+- Hiroshima, NoME:s852
+- history of Western culture, NoPR:s621
+- Hitler, Adolf, NoME:s852, WTH:s6/23
+- homosexuality, NotP:s769–s770, NoTP:s7658, WTH:s6/14 hospitals, NoPR:s661
+- houses for sale, Seth's comments on, UR2:s737 How to Develop Your ESP Power (Roberts)
+- See also Fell, Frederick
+- mail from readers of, SM:c09 publishing delay, SM:c06 Spanish translation, DEaVF2:s931 suggestion to write, SM:c01
+- human-animal combinations, NoPR:s648, UR1:s688, DEaVF1:s887 bones found in Afghanistan, NotP:s796
+- human nature, NotP:s799, NoME:s862 humans
+- See also development, human
+- killing not a natural trait of, DEaVF1:s901 works of, NotP:s799
+- humility, true and false, NoPR:s674 humor in health, WTH:s6/13 Hurkos, Peter, EP:c15
+- Hutter, Luke and Lois, WTH:s1/09 hypnosis, NoPR:s653, WTH:s6/19
+- beliefs and, NoPR:s620
+- experiments with, SM:c06
+- focusing awareness by, EP:c07–c08, EP:c15 formal, NoPR:s658–s659
+- hallucination induced by, EP:c15
+- natural, NoPR:s658–s659
+- in reincarnation experiments, EP:c11
+- I
+- idea complexes, definition of, SDaPoC:c01
+- idea construction, SM:a, SM:c01, SDaPoC:c01, SS:s525, NoPR:s609–s610, NoPR:s613, NoPR:s664,
+- UR2:s709, NoME:s830, ME:s833, TMA:s07
+- 
+- See also matter; creation; perception blueprints for, in physical reality, NoPR:s672 diagram of, SDaPoC:c01
+- dual-hybrid, SM:c14
+- effortlessness in, TMA:s14 electromagnetic values' role in, NoPR:s623 example of creating a world, UR2:s713 "gift of the gods," NoPR:s677
+- inner self and, NoME:s822–s823 significance in, UR1:s682, NotP:s788
+- use of, in the magical approach to life, TMA:s02 summary, NoME:s803
+- usually not done alone, SS:App-ESP1/5/71
+- idea constructions
+- definition, SDaPoC:c01
+- perceptive abilities of, SS:s540 primary and secondary, SS:s540
+- idealism, NoME:s848, ME:s850, ME:s857, ME:s860 idealist, the practicing, ME:s868, ME:s872 ideals
+- See also blueprints, psychic expression of one's, UR2:Int formed in the dream state, NoPR:s672
+- ideas, definition of, SDaPoC:c01
+- identity, SM:c16, NoPR:s632, UR2:s725, NotP:s791
+- humans' sense of, UR1:s692
+- in the magical approach to life, TMA:AppD three means of support of, UR2:s730n
+- idiot savants, DEaVF1:s908
+- If We Live Again: Or, Public Magic and Private Love (Roberts), DEaVF1:Int03 Ilda family of consciousness, UR2:s732, UR2:s737
+- illness, NoPR:s666–s667, NoME:s804, ME:s840, DEaVF1:s906
+- See also pain and suffering; viruses
+- abnormalities as evolutionary experiments, NoME:s869
+- as an aspect of health, WTH:s4/20, WTH:s4/25, WTH:s5/06, WTH:s6/01
+- avoidance through dream therapy, SM:c14, NotP:s796
+- beliefs about, NoPR:s616–s617, NoPR:s637, NoPR:s648–s649, NoME:s805, DEaVF1:s895, WTH:s1/09, WTH:s5/28–
+- s5/30 cancer, NoPR:s660
+- causes of, NoPR:s641, NoPR:s661, NoME:s821, WTH:s1/04, WTH:s5/26, WTH:s5/28, WTH:s6/10, WTH:s6/14 chronic, no need for, NoPR:s634
+- creation and maintenance of, SM:c02, SDaPoC:c14, NoPR:s620, NoPR:s624, WTH:s3/25
+- creativity and, NoME:s867
+- early symptoms of, WTH:s4/10
+- eliminating, exercise for, WTH:s6/12
+- faith necessary to heal, WTH:s1/14
+- family and environment in, WTH:s3/23
+- generated by the medical system, NoME:s804
+- hereditary disorders, DEaVF1:s895
+- hospitals and, NoPR:s661
+- medical insurance, NoPR:s660
+- naming of, WTH:s3/13
+- natural healing of, by the body, NoME:s821
+- personality's role in, SM:c11
+- prevention, negative methods of, WTH:s6/14
+- purposes of, SS:s551, SS:s580, NoPR:s626, NoPR:s660, NoPR:s667, DEaVF1:s906 recovery from
+- See also health
+- methods for, SDaPoC:c14, DEaVF2:s933n, WTH:s4/19, WTH:s6/17
+- See also dreams, therapeutic
+- 
+- reasons for, NoME:s824
+- sudden, NoPR:s660–s661
+- religion and, WTH:s6/24
+- remedied in Framework 2, NoME:s822 responsibility in, WTH:s6/13
+- illness, mental, DEaVF2:s917, DEaVF2:s920
+- See also paranoid behavior; schizophrenia effects of beliefs on, NoPR:s641
+- people affected by, WTH:s6/15–s6/16
+- illumination, state of, NoPR:s638
+- illusion. See physical reality, aspect of illusion in imagination, NoPR:s647, NotP:s782, NoTP:s793, DEaVF1:s891
+- characteristics, DEaVF2:s914, DEaVF2:s916
+- composition of images in, NoPR:s625
+- connection to the entity, SDaPoC:c07
+- connection with the dream state, SM:c14, SDaPoC:c13 directs human existence, NoME:s829
+- limits placed on, DEaVF2:s915
+- role in idea construction, NoPR:s619, NoPR:s669
+- imagination and reason. See high intellect
+- impatience, WTH:s1/20
+- impulses, NoPR:s653, NoME:s856, ME:s859, ME:s863, ME:s872
+- acting on one's, NoME:s860 guiding role of, DEaVF1:s904 indicate purpose of life, ME:s857 Jane's comments on, ME:Int from probable selves, SS:s566
+- individual
+- definition, SDaPoC:c01 importance of the, SDaPoC:c18
+- The Individual and the Nature of Mass Events: A Seth Book (Roberts), NotP:Int, NoME:Int, ME:s801n
+- inertia, "law" of, SS:s581
+- inertia as a state of consciousness, SS:s573 infanticide, NoPR:s621
+- infants and children
+- abilities and knowledge of, UR1:s688, NotP:s762, NoTP:s771, NoTP:s791, NoTP:s795, NoME:s827, DEaVF1:s904, TMA:s06
+- beliefs of, NotP:s773–s774, WTH:s1/27, WTH:s6/03
+- creations of, NoME:s824
+- dreams of, NotP:s793–s794
+- health and disease in, WTH:s5/13–s5/14, WTH:s5/18, WTH:s5/22 play, NotP:s792–s793
+- questioning of basic premises by, NotP:s771 information
+- how attracted, NoPR:s618
+- perception of, DEaVF1:s890
+- inner ego. See inner self
+- inner self, EP:c07–c08, EP:c12, EP:c14, SM:c05, SM:c10, SDaPoC:c10, NoME:s826, ME:s872
+- beliefs about, NoPR:s638
+- breather and dreamer roles, SDaPoC:c08
+- characteristics, SM:App, SS:s512, SS:s527, SS:s551, SS:s560, SS:s572, NoPR:s614–s615, NoPR:s622,
+- UR1:s704, WTH:s3/18–s3/19
+- in early physical reality, DEaVF1:s894
+- effect of, on the human body, SS:s555
+- Framework 2 and, NoME:s822–s823
+- importance of recognizing, to humanity, SDaPoC:c08 protective nature of, DEaVF2:s922
+- relationship to time, SM:c16
+- role in idea construction, NoPR:s621, NoPR:s623, NoPR:s626
+- 
+- inner senses, SM:c04, SM:c07, SM:c10, SM:c16, SDaPoC:c05, SDaPoC:c22, SS:s539, DEaVF1:s886 See also clairvoyance; telepathy; senses, outer
+- characteristics, SDaPoC:c07, SDaPoC:c11, SS:s515, NoPR:s625, DEaVF1:s900
+- data from, SDaPoC:c11
+- exercise invoking, SS:s522
+- importance for humanity, SM:c19, SDaPoC:c07 other than those named by Seth, SS:s583 specific senses
+- cognition of knowledgeable essence, SM:c19
+- conceptual sense, SM:c19
+- diffusion by the energy personality, SM:c19
+- disentanglement from camouflage, SM:c19, UR2:s709
+- expansion or contraction of the tissue capsule, SM:c19, UR1:App03 innate knowledge of basic reality, SM:c19
+- inner vibrational touch, SM:c19, SDaPoC:c07, SS:s581 perception of past, present, and future, SM:c19 psychological time. See psychological time
+- use of, SS:s522
+- in creating physical reality, SDaPoC:c10 by early man, NotP:s777
+- in projections, SDaPoC:c19
+- in Seth sessions, SDaPoC:c09–c10
+- inner vitality. See action
+- insomnia and sleep periods, SS:s532 instinct, definition of, SDaPoC:c01 Instream, Dr. George H. (pseudonym)
+- early meetings with, SM:c06
+- reaction to tests from the Butts, SM:c08
+- tests conducted for, SM:c06–c07, UR2:App18n
+- insurance, medical, NoPR:s660
+- intellect, UR2:s715, NoME:s825, ME:s845, DEaVF2:s915
+- See also high intellect
+- as a cultural phenomenon, TMA:s07
+- synonym of reason, DEaVF2:s917
+- use in the magical and rational approaches, TMA:s02–s06
+- intensity
+- definition, NotP:s789
+- effect on EE units of, SM:App
+- in event formation, NotP:s788
+- in idea construction, SM:c18, SS:s525, SS:s530, NoPR:s613 way to organize experience, NotP:s779
+- intent
+- nature of, UR2:s713 will to live, WTH:s1/04
+- intuitions, methods used by the, NoME:s825
+- Iran, DEaVF1:Pre, DEaVF1:s886, DEaVF2:s911, DEaVF2:s920, DEaVF2:s931, DEaVF2:s933, DEaVF2:s936,
+- DEaVF2:s941n
+- hostage situation in, DEaVF1:s891, DEaVF1:s899n
+- Islamic religion, SS:s587
+- J
+- James, Peter (pseudonym). See Murtough, Peter
+- James, William, material received about, UR2:s718
+- Jehovah, SS:s562, SS:s587, UR1:s690
+- Jerusalem, NoPR:s674
+- Jewish religion, SS:s587, NoME:s852
+- Johnson, Raynor, SM:a
+- Jonathan Livingston Seagull (Bach), NoPR:s618
+- Jones, Carl (pseudonym), SS:s561, UR2:s732, UR2:App25
+- Jonestown "massacre," NoME:s835, ME:s841, ME:s845–s846, ME:s848, ME:s857, DEaVF1:Pre
+- 
+- Joseph (entity name), EP:c01, SM:c01, SDaPoC:c04, SS:Int, NoPR:Int, UR1:s680 portrait of, SS:s534, SS:s584
+- Journeys Out of the Body (Monroe), NoPR:s653
+- joy, SS:App-ESPpre6/23/70, WTH:s1/09
+- Jung, Carl G., SM:a, SM:App, SDaPoC:c18, SS:s555, SS:s557, UR2:s718, NoME:s823 justification of one's existence, SS:App-ESP2/9/71, NoPR:s645
+- K
+- Karder, Dr. Jeff, WTH:s2/05
+- karma, SM:c11, SS:s521, NoPR:s614, NoPR:s636, UR1:Int, WTH:s5/26 Kendall, Richard, TMA:For
+- Kennedy, John F., SM:c14
+- kidney stones, NotP:s770
+- killing
+- karmic consequences of, SDaPoC:c11
+- not a natural trait of humans, DEaVF1:s901 as punishment, SS:s550, NoME:s854
+- in pursuit of ideals, NoME:s850n, ME:s852 violation and, NoPR:s634–s635
+- King, Reverend Martin Luther, Jr., SM:c18 knower, the, DEaVF2:s922
+- knowledge, NotP:s762
+- methods of receiving, NotP:s762–s763
+- possessed individually by consciousness, UR2:s731, NoME:s818 Koch, Alan (pseudonym). See Bach, Richard
+- Kornbluth, Cyril, SS:s518
+- L
+- language, SS:s513, UR2:s723, NotP:s755, NoTP:s762, NoME:s867
+- See also Sumari language
+- beginning of, NotP:s776–s777, DEaVF1:s893, DEaVF1:s901 cordellas. See cordellas
+- master, NotP:s781
+- non-spoken, UR2:s727
+- practiced by infants, DEaVF2:s912
+- roots in dreaming, NotP:s764
+- Lantini, Tom (pseudonym), TMA:s03n
+- laws, NoME:s860, ME:s862
+- Laws of the Inner Universe, SM:c17, SS:s584 learning, definition of, SDaPoC:c01
+- Leonard, Mrs. Osborne, SM:a
+- lesbianism. See homosexuality
+- life after death. See death, between-lives period after life clouds, DEaVF2:s939
+- life purpose. See reincarnation, incarnations
+- light
+- inner and outer, NoPR:s624–s625, DEaVF1:s900 properties, DEaVF1:s888
+- speed of, SS:s581
+- Linden, Jim and Ann (pseudonyms), SM:c11 lives, minimum number, SM:c12
+- Living Time (Nicoll), SDaPoC:c17
+- Longwell, Frank, WTH:s1/23
+- Lord, Jim, SDaPoC:c16
+- Lord of Righteousness, SS:s588
+- love, SM:c18, SS:s550, NoPR:s635–s636, NoPR:s663, NoPR:s673–s674, UR1:s686–s687
+- activated by natural aggression, NoPR:s643 language of, NotP:s774
+- means of expression of, NotP:s771–s772 requirements for, NoTP:s774, NoME:s870
+- 
+- sex and, NotP:s769–s770
+- synonymous with creativity, NotP:s792
+- Lowe, Reverend (pseudonym), SM:c12
+- LSD. See drugs, psychedelic
+- Lumania, SS:s562–s563, SS:s565, SS:Apps593 Lumsden, Lynne, DEaVF1:Int, WTH:s1/17
+- M
+- Macdonell, William Cameron ("Bill"), EP:c03, EP:c05, EP:c10
+- apparition seen by, EP:c13, SM:c01, SM:c10
+- sees Seth by his bed, SM:c09
+- magic, definition of, WTH:s3/10
+- magical and rational approaches to life, NoME:s802, DEaVF2:s937, DEaVF2:s939n, DEaVF2:s941,
+- TMA:s01–s17, TMA:AppB, WTH:s1/22
+- The Magical Approach (Roberts), DEaVF1:Int03, DEaVF1:Int07, DEaVF2:s920, DEaVF2:s936,
+- DEaVF2:s939, DEaVF2:s941, TMA:Int
+- magical environment, current, DEaVF2:s936
+- magical self. See inner self
+- male-female roles, UR1:s690, UR1:s696n, UR1:App09, NotP:s771
+- See also psyche, sexual elements in Mallery, Virginia, SDaPoC:c17
+- Mandali, Dr. Rita (pseudonym), DEaVF1:Int06 manuscripts, undiscovered, SS:s568 Marshall, George, EP:c08
+- mass events, NoME:s801, ME:s826 individual contributions to, NotP:s780
+- massage, NoPR:s646
+- master events, DEaVF2:s919, DEaVF2:s928, DEaVF2:s932 Masters, Dorothea Piry, EP:c04
+- materialism, scientific, DEaVF1:s885n mathematics, SM:c17
+- matter, SDaPoC:c01, SDaPoC:c06–c07, SS:s519
+- See also idea construction
+- formation of, EP:c03, EP:c14, SM:App, SS:s523, DEaVF1:s890 forms of, SS:s567
+- "nonliving," NotP:s796
+- origin of. See physical reality, "origin" of
+- perception of, by the senses, SS:s512
+- Maubundu, SS:s578
+- McClure, Clair, SDaPoC:c16
+- meals, recommended number of, SS:s532, NoPR:s652 meaning, life has, NoME:s866
+- meaninglessness of existence, NoME:s829 medications
+- adverse effects of, WTH:s6/10
+- effects on the body, NoPR:s631, NoPR:s641 medicine
+- preventative, NoME:s814, ME:s859
+- Western, NoPR:s659
+- mediums, psychic, EP:c15, SM:a
+- characteristics of better, SS:s584, SS:Apps596
+- control personalities of, SM:a
+- Meglemanius, III, Protonius, SS:s588, SS:s590 memory, UR1:s686, NoME:s806
+- capacity in early man, DEaVF2:s922 conscious, NoPR:s636
+- definition, SDaPoC:c01
+- types of, NoPR:s632
+- Menahem, Sam, WTH:s5/26
+- mental enzymes, SM:c10, SDaPoC:c04–c05, SDaPoC:c07
+- 
+- mental genes, SDaPoC:c10
+- mental illness. See illness, mental
+- mental image. See imagination
+- mental patterns, NoME:s803
+- mermaids, UR1:s688
+- "Metapsychology: The Journal of Discarnate Intelligence," TMA:For Michelangelo, UR2:s733
+- Middleton, Patty, SS:s573–s574
+- midplane, SDaPoC:c06, SS:s540
+- Miles, Jeanne, TMA:s17
+- Mills, Janet, TMA:For
+- Milumet family of consciousness, UR2:s732, UR2:s736
+- mind
+- associative processes of the, SDaPoC:c16 conscious, NoPR:s613, UR1:s685, UR1:s691
+- action of, SDaPoC:c07, NoPR:s616
+- beliefs about, NoPR:s638
+- characteristics, NoPR:s614–s615, NoPR:s633, NoPR:s640 origin of, NoPR:s626
+- role in idea construction, NoPR:s619–s621, NoPR:s623 split into two personalities, NoPR:s628
+- vs. instinct, NoPR:s634
+- definition, NotP:s763
+- lands of the, UR2:s707
+- mental and physical aspects, WTH:s2/22 more than one, SM:c19, NotP:s763 reasoning
+- characteristics, NoME:s825, DEaVF1:s907–s908, DEaVF2:s910 natural or magical, TMA:s08
+- specialty of humans, DEaVF2:s914
+- spacious, NoPR:s675
+- missing person, Jane's work on a, UR1:s691, UR1:App10 missing person, Seth's description of a, SS:s582
+- missing persons, reasons for, SS:Apps594
+- moment of reflection, NoPR:s635–s636
+- moment points, SS:s514, NoPR:s668, UR1:s681
+- money
+- beliefs about, NoPR:s621–s622, NoPR:s649
+- as a life purpose, NoME:s835
+- Mongoloidism, NoME:s869
+- Monroe, Robert and Nancy, NoPR:s653
+- moon, first humans to the, UR1:s702
+- Mossman, Tam, SDaPoC:Int, SDaPoC:c16, NoPR:s633, UR1:Int, UR2:s705, UR2:s741, DEaVF1:Int,
+- DEaVF1:Int05, DEaVF1:s887n, DEaVF2:s941, TMA:For, TMA:s05 moving residences, effects of, UR2:s742
+- Mu, SS:s583, SS:App-ESP1/5/71, UR2:s714
+- Mullin, Sue. See Watkins, Susan Mullin
+- multiple sclerosis, Seth's suggestions for treating, SM:c11 Murtough, Peter, SDaPoC:c15
+- music as therapy, NoPR:s640
+- Myers, Mike and Mary, SDaPoC:c15
+- mysticism, UR1:App01, UR2:App12
+- mythology, NoPR:s648, UR1:s689, NotP:s772, NoME:s817, ME:s821
+- N
+- naive realism, UR2:App12
+- natural approach. See magical and rational approaches to life
+- natural disasters, NoPR:s664–s666, NoME:s803, ME:s817, ME:s821, ME:s826, ME:s828 natural person, TMA:s11, TMA:s14
+- use of time by a, TMA:s15
+- 
+- nature. See earth environment (nature)
+- The Nature of Personal Reality: A Seth Book (Roberts)
+- summary and purpose, NoPR:Int, NoPR:s609
+- The Nature of the Psyche: Its Human Expression: A Seth Book (Roberts), UR2:s708,
+- UR2:s743n, NotP:Int, NoTP:s755 Neo-Darwinism, UR2:App12n
+- neurosis, NoPR:s652
+- New Year's resolutions from Seth, DEaVF1:s891 Newman, Mary, WTH:s3/18
+- news programs, effects of attention to, DEaVF1:s889 Nicoll, Maurice, SDaPoC:c17
+- nirvana, NoPR:s637, NoPR:s647, UR1:Int, WTH:s6/26 Nixon, Richard M., NoME:s856
+- nonbeing, UR2:App15
+- Norelli, Pat, SM:c17
+- north-south body position, SDaPoC:c10, SS:s519–s520 Nostradamus, SS:s586
+- notime, creation of events in, SDaPoC:c18
+- nuclear power, NoME:s844, DEaVF1:Pre, DEaVF2:s914
+- See also Three Mile Island nuclear plant
+- O
+- O'Farrell, Anne Marie, TMA:For
+- Olson, Danny, WTH:s2/08
+- opposites, illusion of, SS:s587 optimism, innate, WTH:s1/26–s1/27 oral traditions, SS:s568–s569 organizations, effective, NoME:s854 original sin, NoPR:s614, NoPR:s646–s647 Osis, Dr. Karlis, SM:c06
+- Ouija board, EP:Int, SM:c01, UR2:s718
+- how to use, EP:c01–c02
+- interpretation of material from, EP:c02 phasing out use of, with Seth, SM:c03, SDaPoC:c10
+- out-of-body events. See projections outer senses. See senses, outer overpopulation, SS:s550, NoPR:s635 oversoul, NoPR:s637
+- Oversoul Seven and the Museum of Time (Roberts), NoME:s832 overweight condition, NoPR:s621, NoPR:s659–s660
+- P
+- pain and suffering, SM:c09, NoME:s802, WTH:s4/20
+- beliefs about, DEaVF1:s895
+- at death, NotP:s779
+- expected, WTH:s6/27
+- reasons for, SM:c13, SDaPoC:c14, SS:s580, DEaVF1:s896, DEaVF2:s911 religious views of, WTH:s6/17
+- sought after by some, WTH:s6/26
+- panspermia theory, DEaVF2:s939n
+- paranoid behavior, NoME:s834a, ME:s835, ME:s856, ME:s863, TMA:s02, TMA:s08,
+- WTH:s1/04, WTH:s6/20–s6/22 See also fear
+- parapsychology, definition of, EP:c15 parent-child relationship, NotP:s769 Park, Helen Bowman, WTH:s2/08 parthenogenesis, NoTP:s768
+- past
+- definition, SDaPoC:c01
+- perception of, in the present, NoPR:s653
+- 
+- revision of, SM:c16, SS:s539, NoPR:s654, NoPR:s656–s657, NoPR:s667, NoME:s806, WTH:s1/12–s1/13, WTH:s1/15 after death, SS:s541
+- by civilizations, UR2:s735
+- in the current life, SS:s566
+- past lives. See reincarnation
+- peace prediction from Seth, SM:App penance, NoPR:s677
+- pendulum, use of, SS:s541, NoPR:s619 perception, EP:c14
+- See also inner senses; senses, outer alternate modes of, NotP:s764 creation and, SS:s515
+- definition, SM:c20
+- "ghost" methods of, UR2:s722 grids of, DEaVF1:s903
+- human, SS:s514
+- how data is handled, SDaPoC:c16
+- intervals of, DEaVF2:s915
+- increasing the range of, SM:c19 non-physical, of events, DEaVF2:s932 physical. See senses, outer
+- telepathy's effect on, SS:App-ESP6/23/70
+- perfection, state of, NoPR:s674 personalities, multiple, EP:c14, SM:c12
+- See also probable selves; reincarnational, selves; whole self personality
+- after death, EP:c14
+- birth of a new, SM:c17
+- can become an entity, SM:c18 definition, SDaPoC:c01
+- fragments, SDaPoC:c17, SS:s512 human
+- See also ego; subconscious; inner self; whole self characteristics, EP:c14, SM:c16
+- development steps, SDaPoC:c18
+- dominant personality, SDaPoC:c05
+- formation of, SM:c14 multidimensionality of, SM:c15 probabilities and, SM:c15
+- in more than one entity, SM:c18, SS:s583 relationship to its entity, SS:s513, SS:s527 secondary, SM:c02, SDaPoC:c10, NoPR:s627, WTH:s1/05
+- pessimism, NoME:s850, ME:s857, TMA:s0, TMA:s12 Peterson, Shawn, WTH:s1/12, WTH:s1/18
+- Petrosky, William (pseudonym), UR2:s729, UR2:s732 pets, UR2:s741, DEaVF1:s898
+- Billy, NoME:s840, DEaVF1:s897–s897n, TMA:s06 Billy Two, ME:s840
+- Billy (Willie Two), NotP:s790
+- human energy and, SDaPoC:c06
+- inoculations for, NoME:s802
+- Mitzi, NoME:s840, TMA:s06
+- react to and translate your beliefs, NoPR:s656 Rooney, NoPR:s638–s639
+- Willie, SM:c05, SS:s511, NoPR:s616, NotP:s790
+- Phillip (entity name). See Bradley, John physical reality
+- aspect of illusion in, SM:c09, SS:s519
+- "dream time" early in, DEaVF1:s886–s887, DEaVF1:s889 existence in, is not inferior, WTH:s3/21
+- 
+- history of, SS:s559–s560
+- organization of, SS:App-ESP6/23/70
+- "origin" of, SM:c09–c10, SM:c13, SS:s520, NotP:s796, NoME:s823, DEaVF1:s882–s884, DEaVF1:s886–s894,
+- DEaVF1:s899, DEaVF1:s901, DEaVF1:s903, DEaVF2:s918–s919 See also evolution
+- purpose of, DEaVF1:s882
+- responsibility entailed in, SS:s511
+- theory of accidental creation of, DEaVF1:s885
+- physical universe, definition of, SDaPoC:c01
+- "The Physical Universe As Idea Construction" (Roberts), SM:c01, SDaPoC:c10, SS:Int,
+- NoPR:s633, UR1:s679n, NoME:s825 events following, SDaPoC:c03
+- reception of, SS:Apps596, NoME:s824 the writing of, SDaPoC:c01
+- physician, complete, UR1:s703–s704, UR2:s708 physicians, beliefs of, NoPR:s624, NoPR:s659, NoPR:s661, NoME:s814 physicist, mental, UR1:s701
+- Picasso, Pablo, SS:s575, UR2:s734
+- Pierce, Jack, UR2:s732, UR2:s744n
+- Pietra, Dr., SM:c15, SDaPoC:c18
+- planes, characteristics of, SDaPoC:c05
+- planetary systems, SM:App
+- plant life, perceptive abilities of, SM:App, SDaPoC:c06
+- Plato, UR1:s696, NoME:s822
+- play, UR2:s732, WTH:s4/10, WTH:s5/23
+- children's, NotP:s792–s793
+- creative use of, SS:s518, SS:s520 dreams and, NotP:s786
+- healing effects of, WTH:s5/18, WTH:s5/22
+- pleasure as a propellant of life, WTH:s3/20 poetry as an art and a science, TMA:s17 poles, reversal of the, SS:s562
+- Pollack, Jack Harrison, EP:c15 possession, DEaVF2:s921
+- power
+- beliefs about, NoPR:s663
+- definition, NoPR:s666
+- present point of, NoPR:s654, NoPR:s656–s657, NoPR:s663, NoPR:s667, TMA:s05 psychic territory of, NoPR:s661
+- true, NoME:s857, DEaVF1:s891
+- powerlessness, NoPR:s662, NoME:s805, ME:s848 result of not trusting the senses, NotP:s799
+- precognition, EP:c09, UR1:s684, TMA:s13, TMA:AppA See also clairvoyance; dreams, precognitive probabilities and, SDaPoC:c16
+- predestination, SM:c09, SM:c12, SM:c16, SS:s551, SS:App-ESP2/9/71 predictions, UR1:s681, UR2:s741
+- distortive by nature, SS:App-ESP1/5/71 experiments with, EP:c09–c10
+- by Seth, EP:c10
+- why questionable, NoPR:s653
+- premonitions, UR1:s684
+- Prentice-Hall, type of material published by, TMA:s12 present
+- definition, SDaPoC:c01
+- as the point of power, NoPR:s654, NoPR:s656–s657, NoPR:s663, NoPR:s667, TMA:s05 revision of, from the future, NoPR:s675
+- pressure points, WTH:s1/23
+- Price, Harry, SM:a
+- primary cosmic dilemma, SM:c18
+- 
+- primary energy gestalt. See All That Is
+- printing, history of, UR2:App27
+- prisons, NoPR:s661–s663
+- probabilities, SM:c09, NoPR:s631, NoPR:s654–s655, UR1:s681–s682, UR1:s694–s695,
+- UR1:App04, UR2:s707–s708, UR2:s728–s729, NotP:s797, DEaVF1:Int07, DEaVF2:s939 actualized and unactualized events, DEaVF1:s891
+- beginning of action within, DEaVF1:s904
+- beliefs and, NoPR:s656, UR1:s682
+- benefits of perceiving and understanding, UR1:s687, UR2:s742 cells and, UR1:s685
+- "coincidence" examples, UR1:s693
+- creation and use of, SDaPoC:c18, SS:s574, UR1:s697
+- examples, SDaPoC:c17–c18, UR2:s741–s742
+- ghost images of the future, UR1:s686 negative and positive actions between, SDaPoC:c17 origin of, SM:c18
+- precognition and, SDaPoC:c16
+- reincarnation and, UR1:s683 requirements for wise choices of, NoME:s857
+- probability clusters, UR2:s712 probability system, SS:s565
+- blueprints in, UR1:s696
+- choosing another, after death, SS:s541 interaction of, SS:s566
+- of physical reality, SS:s559
+- probable selves, UR1:s680–s681, UR1:s689–s690, UR2:s735 creation of, SDaPoC:c18
+- definition, SM:c15
+- problems, physical, how to solve, SS:Apps594, UR2:s718, NoME:s824n, WTH:s4/19 Progoff, Ira, SM:a
+- progress, technology and, UR2:s709
+- progression in soul level, UR1:s683
+- projections, SDaPoC:c20, UR1:s683, NotP:s758
+- astral, EP:c07, SM:c09, SM:c12
+- benefits of, SS:s583
+- effects on physical reality, SDaPoC:c20
+- from the dream, trance, and waking states, SM:c14, SDaPoC:c19–c22 subconscious fabrications in, SDaPoC:c20
+- time and space in, UR2:s709
+- uncamouflaged layer in, SDaPoC:c22
+- Pryor, Norma (pseudonym), UR2:s732, UR2:s744n, UR2:App25 psyche
+- See also entity
+- characteristics, NotP:s752–s753, NoTP:s755, NoTP:s759, NoTP:s779–s781, NoTP:s783, NoTP:s795, NoTP:s800 "definition," NoTP:s758
+- group of energy gestalts, NotP:s787
+- how to understand, NotP:s782
+- organization of, NotP:s762
+- sexual elements in, NotP:s765, NoTP:s768–s774
+- Psychic Discoveries Behind the Iron Curtain (Ostrander and Schroeder), NoPR:s654 Psychic Politics: An Aspect Psychology Book (Roberts), UR1:Int, UR2:s714–s715n,
+- UR2:s718n
+- psychoanalysis, NoPR:s616
+- psychological time, EP:c07–c08, SM:c16, SDaPoC:c08–c09, SS:s515, SS:App-ESP6/23/70
+- awareness of other selves, SS:s531 benefits of, SDaPoC:c11, SS:s591 definition, SDaPoC:c01
+- psychologist and magician visitor, Gramacy, TMA:AppC psychologists' beliefs
+- about tests for the Buttses, DEaVF1:s885
+- 
+- fear of the "unconscious," SM:App
+- psychologist's letter to Jane, SDaPoC:c10
+- psychology, modern boundaries of, TMA:s14
+- puberty at early and late ages, NotP:s770
+- purpose of existence. See reincarnation, incarnations pyramids, Egyptian, SS:s524
+- Q
+- quality of life, NoME:s805, WTH:s1/09
+- R
+- race, beliefs about, NoPR:s649, NoPR:s651, DEaVF2:s910
+- racial classification, DEaVF2:s911
+- rage, how to deal with, NoPR:s663
+- Ragen, Mark (pseudonym). See Bradley, John
+- Rakin, Father, WTH:s5/18
+- randomness, NotP:s788
+- rational approach to life. See magical and rational approaches to life rats, WTH:s4/25
+- Raymond Van Over's assessment, SM:a
+- Reagan, Ronald, DEaVF2:s931
+- "Reality Change" (magazine), TMA:For
+- See also Cardwell, Maude
+- article by Robert Butts in, SDaPoC:Int reality overlays, DEaVF2:s919n reason, DEaVF2:s915
+- synonym of intellect, DEaVF2:s917
+- reason and imagination. See high intellect
+- reasoning. See mind, reasoning
+- The Rebellers (Roberts), UR1:s688n
+- recovery from difficulty, steps for, WTH:s4/19
+- reincarnation, EP:c01, SM:c05, SM:c09, SM:c11–c12, SDaPoC:c03, UR1:s683, UR2:s729,
+- NoME:s806
+- in all species, DEaVF1:s903
+- development through incarnations, SS:s551 evidence for, EP:c13, DEaVF1:s909 experiments with, EP:c10
+- final incarnation, choices after, SS:s547 health and, WTH:s5/23, WTH:s5/26 incarnations
+- emotional values remembered best, SS:Apps595
+- minimum number of, SM:c12
+- purpose of, SM:c09–c10, SM:c12–c13, SM:c20, SM:App, SS:s521–s522, NoPR:s613–s614, NoPR:s667,
+- NoME:s829, ME:s850, ME:s857, ME:s870, DEaVF1:s899, DEaVF1:s901, DEaVF1:s903, DEaVF2:s914, DEaVF2:s931 relationships in, SS:s550–s551
+- selves. see reincarnational, selves
+- simultaneity of, SS:s521, SS:s589
+- using information about, NoPR:s657
+- influences on present life, EP:c12
+- knowledge of other lives, SS:Apps595, WTH:s6/17–s6/18 male and female lives, SS:s555–s556
+- process of choosing, after death, SS:s541
+- requirements to finish the cycle of, SM:App
+- theory of, EP:c10–c12
+- time overlays and, DEaVF2:s931
+- reincarnational
+- civilizations, SS:s562–s563
+- dramas, SS:Apps592
+- selves, SS:App-ESP1/5/71, NoPR:s668, UR2:s731, UR2:s735, DEaVF1:Int07
+- communication with, NoPR:s668
+- 
+- counterparts and, UR2:s727
+- dreams and, DEaVF1:s908
+- relationships, attraction of others in, SS:s550 relaxation, TMA:s14–s15
+- religion, UR1:s687
+- basis for, in the human personality, SS:s585 definition, NoME:s831
+- true, is not repressive, NoPR:s674
+- religions
+- See also specific religions
+- basic "laws" of, NoME:s862
+- beliefs of, about suffering, DEaVF1:s895
+- beliefs promoted by, NoME:s814, ME:s821
+- central figures in, DEaVF1:s886n
+- conversions in, NoME:s856
+- fanaticism in, NoME:s854
+- fundamentalism in, NoME:s829
+- history of sexual roles in, NotP:s773–s774
+- illness and, WTH:s6/24
+- male aspects of, NoME:s853
+- myths and, NoME:s817
+- origin of, NoPR:s674, WTH:s6/23
+- as a reflection of individual experience, SS:s587
+- religious dramas, SS:s585–s588
+- resentment, how to treat, SM:c13
+- responsibility of each self, SM:c18, SS:s523, NotP:s799, DEaVF1:Int
+- Rhine, Dr. J. B., EP:c15, SM:c08
+- Rhoads, George, UR2:s732, UR2:s744n, UR2:App22n, UR2:App25, TMA:s05 "Right is might," WTH:s6/26
+- riots, NoPR:s665
+- Roberts, Delmer Hubbell, SDaPoC:Int, UR1:s696, UR2:App26, DEaVF1:Int08 Roberts, Jane, SM:a, DEaVF1:Int01
+- appearances and lectures, SM:c16, SDaPoC:Pre, UR1:s702, UR2:s712 art of, DEaVF2:s931
+- automatic writing by, SDaPoC:c17
+- books, SDaPoC:Pre
+- See also specific titles
+- cats, writings about, DEaVF1:s885
+- childhood and family life, UR1:s679, DEaVF1:Int08, DEaVF2:s918n, WTH:s8/05 conceptions of Seth. See Seth, defined by Jane
+- creative processes of, SS:Int, DEaVF1:Pre
+- death of, SDaPoC:Int, WTH:For
+- decision to live or die, WTH:s7/30, WTH:s8/01
+- direct experience of concepts, SM:c17
+- dreams, SM:c14
+- "The Wonderworks," UR1:App11, UR2:s718 early contact from Seth, SS:s578
+- entity name "Ruburt." See Ruburt (entity name) eyesight and visual memory, SM:c08
+- fears
+- black thought-form, SM:c14 of death, NotP:s796
+- final incarnation, UR2:s721
+- food preparation, SS:s569 grandmother's death, WTH:s5/09 healing of, NotP:s779, DEaVF1:s905 "Helper" of, SS:Apps593, DEaVF2:s922 hospitalization, DEaVF2:s941
+- insurance for, WTH:s3/27 life in Denmark, SS:s541
+- 
+- long sound perception, UR2:s712, UR2:App19 male and female roles, beliefs about, NoME:s853 medical treatments, DEaVF1:Int01–02, DEaVF1:Int08–09 miscarriage, UR2:s730n
+- mother of. See Roberts, Marie Burdo mysticism, UR1:App01, UR1:App10 plants, essays on, NoME:s848
+- poems
+- "A Psychic Manifesto," NoME:Int
+- "Birthday," SDaPoC:c02
+- "The Breather and the Dreamer," SDaPoC:c08 "Dear Love," UR2:s713
+- "Dialogues of the Speakers," NoPR:s653 "Dreamers," SDaPoC:c13
+- frog poem (untitled), SDaPoC:c20
+- "I Shall Die in the Springtime," UR1:App01 "The Idiot," SDaPoC:c11
+- "Illumination," UR1:s687
+- "In Midnight Thickets," SDaPoC:c13, UR2:s708n "Long Is the Light," UR2:App19
+- "Magic Show," TMA:For
+- "Magic Was," SDaPoC:c02
+- "More Than Men," UR2:s740n
+- "My Dreaming Self," SDaPoC:c13, UR1:s699n
+- "My Heart Knows No Arithmetic," UR2:s725n "No Matter Where I Look," NoME:s863
+- "Old Hates," SDaPoC:c02
+- "On This Hazy Day," SDaPoC:c02
+- "One and One," SDaPoC:c02
+- "Past Lives (to Rob)", DEaVF2:s939n
+- "Rah, Rah, Rah," SDaPoC:c11
+- "Reason's Source," DEaVF2:s939n
+- "Science Convinces Me of Magic," UR2:App12 "Skin," SDaPoC:c02
+- "The Song of the Silver Brothers," NoPR:s658 "The Speakers," NoPR:Int
+- "Summer Is Winter," UR1:1
+- "The Terms," SDaPoC:c02
+- "To Rob," SDaPoC:c02
+- "To Rob" (two poems), NoME:s806
+- "The Trees in the Forest," SDaPoC:c06, UR2:s727n "Vision," SDaPoC:c13
+- "The Visitor," SDaPoC:c02
+- "With Winged," UR2:1
+- poetry, NoPR:s639, NoPR:s644, DEaVF2:Int, DEaVF2:s936n, DEaVF2:s938n, TMA:s17n, TMA:AppC, WTH:s2/28, WTH:s3/12, WTH:s7/17, WTH:s8/02, WTH:s8/08, WTH:s8/13, WTH:s8/16
+- possible communications from, after death, SDaPoC:Int precognitive experiences, TMA:AppA
+- predictions, experiments with, SM:c06
+- prevents Seth contact occasionally, SS:s581
+- a probable Jane, in Sue Watkins's dreams, SDaPoC:c17
+- probable selves, UR1:s679–s680
+- projection to her childhood environment, UR1:s685–s686, UR1:s688
+- projections by, SM:In2, SM:c07–c09, SM:c13–c14, SDaPoC:c11, SDaPoC:c16, SDaPoC:c19–c22 psychic initiation, events before and after, SDaPoC:c02
+- psychic library, UR2:s744
+- rain puddle creature, NoPR:s639
+- reaction to the Seth material, SM:In2, SM:c01, SM:c03
+- reincarnational beliefs, DEaVF1:Int07
+- reincarnational lives, SM:c14
+- 
+- relationship with Robert Butts, SDaPoC:Int
+- religious training and views, SM:In2, SS:s585, UR1:s679, UR2:App15, DEaVF2:s931 short stories
+- "The Big Freeze," SDaPoC:c16
+- "The Outsider," EP:c05
+- "The Red Wagon," SDaPoC:c03, UR1:s679n
+- "sinful self" concept, DEaVF1:Int03, DEaVF1:Int07, DEaVF1:Int09, DEaVF2:s931
+- smoking, Seth's disapproval of, SDaPoC:c05
+- symptoms, NoPR:s666, DEaVF1:Int01–06, DEaVF1:Int08, DEaVF2:s920, DEaVF2:s931, DEaVF2:s936n, DEaVF2:s939
+- See also The Way Toward Health (Roberts)
+- reasons for, UR1:s679, UR2:s712–s713, DEaVF2:s911 talented people, beliefs about, WTH:s2/05
+- trances
+- deep trance without Seth, SDaPoC:c04–c05
+- experience while speaking for Seth, SS:s511, SS:Apps594, UR1:Int, UR1:App05, TMA:Int experience while speaking for Seth Two, SM:c17, SS:s589
+- first trance, in Milford, PA, SS:s518
+- massive feelings, UR1:s681, UR1:App03, UR2:s714, UR2:App19
+- qualities necessary for Seth contact, SDaPoC:c10, SS:s513, SS:s584, SS:Apps596
+- training in trance focus, SM:c07–c08
+- vision of men by her bed, SDaPoC:c04 visiting-scientist session, UR2:s721 will (legal), DEaVF1:s887n
+- Roberts, Marie Burdo, NoPR:s610, UR1:s696, DEaVF1:Int08, DEaVF2:s931, WTH:s8/02 Roberts, Richard, TMA:For
+- Roman Catholic Church, DEaVF2:s921
+- losing dominance, DEaVF2:s914
+- records altered by, NoME:s821
+- romanticism, WTH:s5/30
+- Roohan, Lizzie, SDaPoC:c19
+- root assumptions, SM:c09, SDaPoC:Pre, SS:s519, NoPR:s613
+- of physical reality, SDaPoC:c22, SS:s521, SS:App-ESP6/23/70 See also space; time
+- root dreams. See dreams, root
+- Ruburt (entity name), EP:c01, SM:c01, SDaPoC:c04, SS:Int, SS:s511, NoPR:Int, UR1:s680
+- portrait of, SS:s534 Ruppenthal, Jake, WTH:s2/02
+- S
+- Salter, W. H., SM:a
+- Saratoga Springs, New York, EP:c07, DEaVF2:s939
+- Sasquatch, WTH:s1/10
+- Satan, SS:s568, NoPR:s647
+- schizophrenia, SDaPoC:c05, NoPR:s629, NoME:s863, DEaVF2:s920n, DEaVF2:s921, WTH:s6/05,
+- WTH:s6/19–s6/23
+- sleep periods and, SS:s532
+- science
+- as art, DEaVF2:s913
+- basic tenets for a new, NoME:s855 psychology and, TMA:s14
+- scientific methods
+- current, UR1:s701, UR1:s704, NotP:s798, NoME:s845–s846, ME:s848, DEaVF1:Int08, DEaVF1:s884n, DEaVF1:s895,
+- TMA:s04–s06 destructive, NoME:s868
+- fanaticism in, NoME:s854
+- future of, DEaVF2:s914
+- inner, UR1:s700–s704, UR2:s709, DEaVF1:s884n
+- See also dream-art scientist; physician, complete; physicist, mental instruments of, SDaPoC:c07
+- magical approach and, TMA:AppC
+- 
+- male aspects of, NoME:s853
+- observer and object, DEaVF1:s888
+- reaction to Three Mile Island episode, NoME:s845 religion and, NotP:s772
+- species classification, NotP:s798
+- technology reflects inner realities, NoME:s870
+- seances, SM:a
+- experiments with, EP:c14, SM:c03
+- how to conduct, EP:c03
+- image in doorway, EP:c03
+- Jane's hand changes in, EP:c03, SM:c03 with Malba Bronson, EP:c13, SDaPoC:c06–c07 with Sarah Wellington, SDaPoC:c03
+- Seth's participation in, SM:c03
+- seasons, NoPR:s664, DEaVF1:s892
+- second puberty, NotP:s770
+- self, greater. See entity
+- self-approval, NoPR:s672, NoPR:s674–s675, NoPR:s677
+- Christ's message of, NoPR:s674
+- how to develop, NoPR:s676
+- importance of, WTH:s2/06–s2/07, WTH:s3/19
+- self vs. nonself, DEaVF2:s938 selves
+- infinite, UR2:s740
+- multiple, in one body, UR1:s683 psychological organizations of, UR2:s740
+- See also counterparts; probable selves; reincarnational, selves senility. See aging, "senility" symptoms
+- senses, outer, SDaPoC:c07, SDaPoC:c11, SS:s522, NoPR:s626
+- creation by, SS:s515
+- importance of, DEaVF1:s894
+- myth of perception only through the, NoME:s823 trust in the primary experience of, NotP:s799 untrustworthiness of, SS:s511
+- use in early physical reality, DEaVF1:s892
+- sessions, Seth, WTH:s7/31
+- data received in the sleep state, UR1:App04 demonstrations of ESP in, SM:c09
+- final session, WTH:s8/30
+- initial session, SDaPoC:c03
+- procedure in, SM:c04, NoME:s801
+- psychological bridge with Jane, SM:c20, UR2:s711 Seth's availability at, SM:c20
+- use of Jane's muscles in sessions, SDaPoC:c12
+- voice in, SM:c04
+- why in the evening, TMA:s15
+- Seth
+- See also sessions, Seth; Seth Two
+- activities and environment, SS:s513–s514, SS:s518, UR2:s733, UR2:s744, NotP:s790, NoME:s818,
+- DEaVF2:s916
+- appearances in dreams, SS:Int
+- defined by Jane, EP:Int, SM:c20, NoPR:Int, UR1:s704, NoME:Int, DEaVF2:s931 defined by Seth, EP:c15, SM:c16, SDaPoC:Pre, SS:s511, UR1:Pre, UR2:s711 dog fragment of, SS:s581
+- early contacts with Jane Roberts, EP:c01, SS:s518
+- emotional characteristics, SS:s513
+- anger at and apology to Robert Butts, SDaPoC:c10
+- entry into physical reality, SS:s519
+- experiences while speaking through Jane, SS:s578, SS:Apps594 has spoken through others in other ages, SS:s584
+- 
+- letter
+- to contributors toward medical expenses, WTH:s1/28 to correspondents (first), NoPR:s633
+- to correspondents (second), UR1:Int
+- on death, NoPR:s646
+- to a physics professor, NoME:s855
+- lives on earth, SS:s588
+- as Millenius at the time of Christ, SS:s588 as a minor Pope, SS:s588, SS:s590
+- as a spice merchant, SS:App-ESP1/5/71
+- naming of, SM:c01
+- New Year's resolutions from, DEaVF1:s891
+- not Jane's subpersonality or subconscious, SM:c05
+- painting of, SM:c08
+- part of Jane's and Rob's entity, SS:s531
+- perception and communication methods, SS:s518, SS:s575, SS:s578
+- presence is healing for Jane, WTH:s2/14
+- relationship to Seth Two, SM:c17, SM:c20, SS:s589, NotP:s755
+- relationship with Jane and Rob, SS:s589, SS:App-ESP1/5/71, UR2:s728, UR2:App18 selves of, UR2:s740
+- speaks only through Jane Roberts, SM:c09, SS:s581
+- states of consciousness, NotP:s763
+- teaching methods, SS:s518, NoME:s841n
+- purpose of teachings, UR1:Pre, UR1:s685–s686, UR1:s696 those who claim to speak for, DEaVF1:Int05
+- Seth, Dreams, and Projection of Consciousness (Roberts) events before publication, SDaPoC:Int, SDaPoC:c01
+- summary of contents by Jane, SDaPoC:Epi
+- Seth material
+- circumstances preceding, SM:c01
+- distortions in, SM:c07, SM:c20
+- emotional material easier to receive, SM:c08
+- fan mail about, DEaVF1:Int08, DEaVF1:Pre
+- material unpublished at Jane's death, WTH:Epi
+- medical material, Prentice-Hall and, TMA:s09, TMA:s12
+- origin of, EP:c02
+- overview of, EP:c15
+- probable Seth books, UR2:s744
+- protection of, DEaVF2:s922, TMA:s12
+- purpose of, SM:c09, NoPR:s640, NoME:s840, DEaVF2:s915, DEaVF2:s940–s941
+- Raymond Van Over's assessment, SM:In1
+- received in the sleep state, UR2:s724
+- reception of, SM:c06, SS:Int, SS:s511, SS:s513, SS:s561, NoPR:Int, NoPR:s610, UR2:Int, NoME:s824, TMA:For repetition in, DEaVF2:s916
+- use of, NoME:s801
+- at Yale University, DEaVF2:s941
+- The Seth Material (Roberts)
+- events preceding publication, SDaPoC:Int, SDaPoC:c16 publicity tour for, SDaPoC:Pre, SS:s550
+- "The Seth Phenomena" (video), TMA:For
+- Seth Speaks: The Eternal Validity of the Soul (Roberts), NoPR:Int, NoPR:s609
+- Dutch version, editing of the, SS:Int, DEaVF1:s885n, TMA:s07 events preceding publication, SDaPoC:Int
+- outline from Seth, SS:Int
+- purpose of, SS:s511
+- writing of, SS:Int Seth Two, UR2:App19
+- See also Roberts, Jane, trances
+- initial appearance of, SM:c17
+- purpose and characteristics, SM:c17, SS:s588
+- 
+- relationship to Seth, SM:c17, SM:c20, SS:s589, NotP:s755 sex as natural therapy, NoPR:s640
+- sexual elements in the psyche. See psyche, sexual elements in sexuality, beliefs about, WTH:s6/05–s6/07
+- Sherman, Harold, SM:c08
+- shit, UR2:App24
+- significance in idea construction. See idea construction, significance in simultaneity, SS:s567
+- simultaneous selves. See reincarnational, selves
+- sinful self concept. See Roberts, Jane, "sinful self" concept
+- The Sky Will Send Down Ladders (Roberts), SDaPoC:c16
+- sleep
+- definition, SDaPoC:c01
+- necessary for survival, UR2:s709
+- recommended periods of, SS:s532–s533, NoPR:s651–s652 waking-sleep patterns, world, NotP:s800
+- sleeping pills, NotP:s795
+- sleepwalkers in early physical reality, UR2:s708, DEaVF1:s883, DEaVF1:s888–s890,
+- DEaVF1:s892–s894, DEaVF1:s899, DEaVF1:s901, DEaVF1:s904, WTH:s1/23 Smith, Peter (pseudonym). See Rhoads, George
+- smoking, Seth's disapproval of, SDaPoC:c05
+- snakes, symbolic meaning of, DEaVF1:s901
+- soul. See entity
+- soul mates, UR2:s732 sound
+- inner, NoPR:s625, UR2:s711, UR2:s714n, NotP:s776 properties, UR2:s714
+- as a symbol, SS:s572
+- translated into images, TMA:s17
+- uses for, SS:s562–s563, NoPR:s623, NoPR:s640
+- source of all realities, DEaVF1:s897
+- space, SDaPoC:c01, SDaPoC:c07, SS:s519, SS:s530, SS:s537
+- See also fifth dimension
+- space, physical, properties of, DEaVF1:s888 space shuttle, DEaVF2:s936, DEaVF2:s941n space travel, SM:c17, UR2:s712–s713
+- alternatives to, DEaVF2:s918
+- spacious intellect. See knower, the
+- spacious present, EP:c04, SM:c15, SM:c20
+- Speakers, SS:s568–s570, SS:s575, SS:s583, SS:s588, SS:s558, NoPR:s623, DEaVF1:s902n, WTH:s1/25
+- characteristics and purpose, SS:s578 definition, NoPR:Int
+- description by Jane Roberts, SS:Int examples, SS:s578
+- manuscripts of the, NoPR:Int
+- portraits by Rob, SS:s582
+- spiritual ignorance, SS:s586
+- spirituality, true, SS:App-ESPpre6/23/70 spontaneity, SM:c13, DEaVF1:s898, WTH:s6/10
+- health and, WTH:s6/04–s6/05 spontaneous self. See inner self
+- Stack, Rick, TMA:For
+- Steffans, Mrs. (pseudonym), DEaVF2:s913 Steiner, Carol, WTH:s1/11
+- Stevenson, Ian, EP:c15, SM:c05
+- Stillpoint Publishing, SDaPoC:Int
+- Stone Age. See development, human, early man Stonehenge, SM:App
+- storms. See natural disasters
+- TMA:s17,
+- 
+- stream of consciousness, EP:c06, SS:s531 subconscious, SDaPoC:c10, SS:s512
+- characteristics, EP:c01–c02 definition, EP:c12, SDaPoC:c01 effects of the ego on, SDaPoC:c06 layers (areas) of, SDaPoC:c07
+- suffering. See pain and suffering suggestion
+- effects of, in the creation process, SM:c10 individual's reaction to, SM:c13
+- methods of, for health, WTH:s4/08–s4/10 to the subconscious, SDaPoC:c06
+- suicide, UR2:s735, NoME:s801, WTH:s6/07–s6/11 mass. See epidemics; wars
+- treatment of, after death, SS:s546
+- Sumafi family of consciousness, UR2:s732, UR2:s736
+- Sumari City, UR2:s713, UR2:App16
+- Sumari family of consciousness, NoPR:Int, UR1:s692, UR2:s732, UR2:s734–s737,
+- UR2:App26
+- Sumari language, NoPR:Int, NoPR:s623, NoPR:s638
+- function of, UR2:s723
+- Sumari Healing Song, DEaVF1:Int10
+- supply and demand, NoME:s868
+- survival beyond death. See death, between-lives period after survival groups, WTH:s6/27
+- survival of the fittest. See evolution
+- symbols, NotP:s753
+- See also dreams, symbols in
+- creation and use of, SS:s571–s573
+- in distorted historical records, SS:Apps592 personal bank of, SS:s572
+- physical objects as, SS:Apps594
+- sympathy vs. pity, DEaVF2:s911 systems, no closed, DEaVF1:s903
+- T
+- taboos, NotP:s768–s769
+- no "preordained," UR2:s733
+- Taylor, Anna, SDaPoC:c15
+- teacher, vocation of, after final incarnation, SS:s547
+- Teacher of Righteousness, SS:s588
+- technology. See science
+- telepathy, EP:c06, SM:c05, SM:c10, SM:c13–c14, SM:c19, SDaPoC:c16, SS:s513, SS:s528, ESP1/12/71
+- after death, SS:s535
+- communication of beliefs by, NoPR:s643 information received via, NoPR:s616–s617 Seth's use of, SDaPoC:c10, SS:s518
+- Tenhaeff, Professor Willem, EP:c15, SM:c08
+- Terrio, Bob, TMA:For
+- therapies, natural. See music; sound; dreams; art; sex therapy, value fulfillment and, NoME:s862
+- third eye, UR2:App19n
+- thought
+- official line of, WTH:s2/15
+- processes, associative. See associative thought processes styles of, TMA:s05
+- thought-forms, SM:c14, SDaPoC:c21, SS:s540–s541 See also apparitions
+- construction of, SS:s530
+- SS:App-
+- 
+- how to learn from, SS:s538
+- thoughts, NoPR:s631, NoPR:s633, UR1:s697, NotP:s792, NoME:s841
+- appearance in other realities, SS:s573 cannot kill, NoPR:s642
+- electromagnetic and sound values, NoPR:s623 generated by cells, NotP:s785
+- repression of, NoPR:s634
+- role in constructing reality, SS:s520
+- Three Mile Island nuclear plant, NoME:s844–s846, ME:s848n, ME:s850n, ME:s856n,
+- NoME:s872, DEaVF1:Pre, DEaVF1:s886, DEaVF1:s899n, DEaVF2:s918, DEaVF2:s920, DEaVF2:s933,
+- DEaVF2:s936, DEaVF2:s941n
+- Through My Eyes, NoPR:s630, UR1:s683, UR2:s721n
+- time, SM:c04, SDaPoC:c07, SS:s519, UR1:s702, DEaVF1:s882, DEaVF1:s888
+- See also future; past; present; spacious present ability to move through, UR2:s712
+- beginning of action within probabilities, DEaVF1:s904 characteristics of, EP:c04, EP:c09
+- clock, TMA:s01
+- distortions of, NoPR:s652
+- human perception of, DEaVF1:s892
+- inverted, SM:c09, SDaPoC:c16
+- inward and outward directions, UR1:s688, UR2:s713 in master events, DEaVF2:s928
+- notime, creation of events in, SDaPoC:c18
+- overlays, DEaVF2:s931
+- perceptions of, future developments in, NoPR:s675 physical, SM:c18, SM:c20
+- definition, SDaPoC:c01
+- reason for, SDaPoC:c09
+- psychological. See psychological time
+- reaction in the present to future events, SM:c16 relativity of, NotP:s752
+- role in idea construction, NoPR:s618, TMA:s01 serial, units behind, SS:s582
+- Seth's use of terms of, DEaVF2:s919
+- simultaneous, SM:c12
+- use by a natural person, TMA:s15
+- tissue capsule. See astral body
+- tone, own true, UR2:s714
+- Trainor, Father, EP:c13
+- trance states. See dissociated states transmigration of souls, UR2:s705, DEaVF1:s903n Traynor, Father. See Trainor, Father
+- trees, UR2:s727, UR2:s739, UR2:App13 consciousness of, SM:App
+- perceptive abilities of, SDaPoC:c06
+- Trenton, Father, WTH:s5/18
+- trust, biological, DEaVF2:s912, WTH:s2/01
+- trust in oneself, NoPR:s677, UR2:s708, UR2:s710, UR2:s714n, UR2:s733, NoME:s834,
+- TMA:s08
+- truth, SS:Apps596
+- Tumold family of consciousness, UR2:s732, UR2:s736 twins, identical, SS:s551
+- U
+- ulcers, NoPR:s660
+- Ulkowski, Stan, TMA:For
+- unconscious, SS:Int, NoPR:s621, NoPR:s654, NoME:s823, ME:s831 universe, physical. See matter; physical reality
+- universe "leans in your direction," NotP:s800, NoME:s825
+- 
+- unknown reality, definition of the, UR2:s711
+- The "Unknown" Reality: A Seth Book (Roberts), UR2:s709, UR2:s715, UR2:s743
+- description of contents, UR1:Int, UR1:Epi, UR2:Int, UR2:s743, UR2:Epi events after creation of, UR2:Epi
+- V
+- vaccinations, WTH:s4/25, WTH:s4/27
+- belief necessary for effective use, NoME:s802
+- body's reaction to, NoME:s801
+- value climate, UR1:App08
+- value fulfillment, SM:c09, NoPR:s637, UR1:s683, NoME:s801, ME:s862–s863, ME:s866,
+- NoME:s868, DEaVF1:Int04, DEaVF1:s881, DEaVF1:s884, DEaVF1:s893, DEaVF2:s910–s911, DEaVF2:s920,
+- DEaVF2:s922, TMA:s04–s05, WTH:s3/27, WTH:s4/12, WTH:s5/06 in the dream state, SDaPoC:c13
+- efforts against, DEaVF2:s914
+- humans' addition to, DEaVF1:s890
+- pleasurable effect of, DEaVF2:s933 therapy and, NoME:s862 violations of. See violations
+- Van Over, Raymond, SM:In1, SM:c11 victims, NotP:s792, NoME:s803
+- violations, NoPR:s634, NoPR:s636, DEaVF2:s910 violence, DEaVF2:s933
+- civilization against. See Lumania no justification for, SM:c18
+- vs. aggression, NoPR:s642
+- viruses, SDaPoC:c06, NoPR:s631, NoME:s840–s841, ME:s867, ME:s869, DEaVF1:s906 vitality. See action
+- vitamins, NoPR:s660, DEaVF1:s906
+- vocation, multidimensional, choosing one's, SS:s547
+- Vold family of consciousness, UR2:s732, UR2:s736
+- W
+- waking-sleep patterns, world, NotP:s800 waking state, NoTP:s756
+- origin of, in the dream state, DEaVF1:s898
+- rhythms in the, SS:s533
+- wars, SS:s550, NoPR:s665–s666, NotP:s770, NoME:s854
+- among Jews, Arabs, and Christians, NoME:s829 emotional basis for, NoPR:s673
+- fought first in the dream state, NoPR:s671 hatred of, NoPR:s615
+- mass suicide aspects of, NoME:s835 refusal to go to, SM:c18
+- "the right of nations," NoME:s852
+- Watergate cover-up, NoME:s856
+- Waterman, Floyd (pseudonym), DEaVF1:s900, DEaVF2:s937
+- Watkins, Carl, SDaPoC:c21, SS:s514, SS:s550
+- Watkins, Susan Mullin, SM:App, SDaPoC:Int, SS:s514, UR2:s732, UR2:s744n, TMA:For
+- dreams, SDaPoC:c14, SDaPoC:c17–c18, UR1:s692n
+- Grunaargh family of consciousness, UR2:s737, UR2:App27 projections, SDaPoC:c18, SDaPoC:c21
+- represents Jane's writing self, WTH:s1/16
+- at a Seth session, SS:s550, SS:Apps592, SS:Apps594
+- Watts, Frank, EP:c01, EP:c03, SM:c01, SM:c03, SDaPoC:c03, SDaPoC:c05, SDaPoC:c11, SS:s541 The Way Toward Health (Roberts), UR1:s689, UR1:App07
+- summary of events during delivery, WTH:For weather
+- formation of, NoPR:s614, NoPR:s664
+- humans' involvement with, NotP:s783, NoME:s828
+- 
+- Wellington, Sarah. See under seances whales, UR2:s730
+- whole self, SS:s518
+- components of (personality, inner self, entity), SM:c16, SDaPoC:c08, SDaPoC:c18, SS:s530
+- development of, SS:s556
+- will. See intent
+- will to live, WTH:s1/04
+- Williams, Earl, UR2:s732
+- Withers, Frank (pseudonym). See Watts, Frank
+- "The Wonderworks" (Roberts), UR1:App11, UR2:s718 Wood, Valerie (pseudonym), SDaPoC:Int
+- world events, how to perceive, TMA:s13
+- world view, SDaPoC:Int, UR2:s718, UR2:s723, NotP:Int
+- The World View of Paul Cézanne: A Psychic Interpretation (Roberts), UR2:s718, NotP:Int worry, uselessness of, WTH:s2/01, WTH:s2/06, WTH:s2/20–s2/21
+- Worth, Patience, EP:c01
+- Y
+- Yale University, DEaVF1:s887n
+- Yaudes, Leonard, DEaVF1:s895–s896, DEaVF2:s913, WTH:s1/19 yeti, WTH:s1/10
+- Yoder, David (pseudonym). See Yaudes, Leonard
+- yoga
+- therapeutic uses of, SDaPoC:c06, SDaPoC:c09, SDaPoC:c14
+- use in enabling projections, SDaPoC:c20
+- York Beach episode and fragments, SM:c02, SM:c16, SDaPoC:c05, SDaPoC:c17–c18, UR1:s680,
+- UR2:App18n Young, Jim, SDaPoC:Int
+- Z
+- Zealots, SS:s588, SS:Apps592
+- Zuli family of consciousness, UR2:s732, UR2:s736
+- 

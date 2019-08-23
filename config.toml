@@ -1,0 +1,133 @@
+baseurl = "https://safe-universe.com/"
+languageCode = "en-us"
+title = "Seth Repository"
+theme = "elif"
+#googleAnalytics = "UA-90946882-1"
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+footnotereturnlinkcontents = "↩"
+enableGitInfo = true
+#disableKinds = ["taxonomy", "taxonomyTerm"]
+readingTime = true
+#
+
+[frontmatter]
+date = ["date", "lastmod", "publishDate"]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
+
+[permalinks]
+		post = "/:sections/:filename/"
+		page = "/:filename/"
+
+[[menu.main]]
+		name = "Home"
+		url = "/"
+		weight = 1
+[[menu.main]]
+		name = "Archive"
+		url = "/archive/"
+		weight = 2
+#[[menu.main]]
+#		name = "About"
+#		url = "/about/"
+#		weight = 5
+[[menu.main]]
+		name = "Resources"
+		url = "/resources/"
+		weight = 5
+[[menu.main]]
+		name = "Contact"
+		url = "/contact/"
+		weight = 6
+[[menu.main]]
+		name = "Categories"
+		url = "/categories/"
+		weight = 3
+[[menu.main]]
+		name = "Tags"
+		url = "/tags/"
+		weight = 4
+#[[menu.main]]
+#		name = "Subscribe"
+#		url = "/index.xml"
+
+[Author]
+#	name = "hobs"
+#	website = "safe-universe.com"
+#	email = ""
+#	facebook = "username"
+#	googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+#	github = ""
+#	mastodon = ""
+#	keybase = ""
+#	gitlab = "username"
+#	bitbucket = "username"
+#	twitter = "username"
+#	reddit = "username"
+#	linkedin = "username"
+#	xing = "username"
+#	stackoverflow = "users/XXXXXXX/username"
+#	snapchat = "username"
+#	instagram = "username"
+#	youtube = "user/username" # or channel/channelname
+#	soundcloud = "username"
+#	spotify = "username"
+#	bandcamp = "username"
+#	itchio = "username"
+#	vk = "username"
+#	paypal = "username"
+#	telegram = "username"
+#	500px = "username"
+	rss = "/index.xml"
+
+
+[params.meta]
+	description = "A Seth Repository"
+
+[params.contact]
+	show  = true
+
+	# What you need to do for the setup?
+	#
+	# - set your email address under 'email' below
+	# - upload the generated site to your server
+	# - send a dummy email yourself to confirm your account
+	# - click the confirm link in the email from www.formspree.io
+	# - you're done. Happy mailing!
+
+	email = "hobs@microsun.io"
+
+[params.contact.form]
+	# Set custom strings for the form if your native
+	# language isn't English
+	name = "Name"
+	email = "E-Mail"
+	message = "Message"
+	submit = "Send message"
+
+[languages.en]
+lang = "en"
+languageName = "English"
+weight = 1
+
+pluralizelisttitles = false
+
+[params]
+	author = "hobs"
+	showAuthor = false
+	showTitles = true
+	description = "A Seth Repository"
+	custom_css = ["css/custom.css"]
+	showReadTime = true
+	gitRepoContentEditLink = "https://git.safe-universe.com/hobs/safe-universe.com/_edit/master/content"
+#	selfHosted = true
+	matomo = "matomo.safe-universe.com"
+
+[params.type]
+    [params.type.Environment]
+      "name" = "environment"
+    [params.type.Dev]
+      "name" = "dev"
+

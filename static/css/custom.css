@@ -1,0 +1,89 @@
+/* Custom CSS */
+
+.logo a {
+    color: #003f47;
+    font-family: "Times New Roman", "serif";
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 4.2rem;
+    font-weight: normal;
+    cursor: default;
+    text-align: center;
+    text-shadow: 1px 1px 0 rgba(218,194,8,1);
+}
+
+.c,.h,.a,.o,.s,.b,.u,.n,.k,.e,.r {
+	transition: 7s ease-out;
+	text-transform: uppercase;
+}
+.c:hover,.h:hover,.a:hover,.o:hover,.s:hover,.b:hover,.u:hover,.n:hover,.k:hover,.e:hover,.r:hover {
+	transition: 0.1s;
+}
+
+.c:hover {
+	color: #FF0000;
+}
+
+.h:hover {
+	color: #FF7F00;
+}
+.a:hover {
+	color: #FFFF00;
+}
+
+.o:hover {
+	color: #00FF00;
+}
+
+.s:hover {
+	color: #0000FF;
+}
+.b:hover {
+	color: #4B0082;
+}
+.u:hover {
+	color: #9400D3;
+}
+.n:hover {
+	color: #FF0000;
+}
+.k:hover {
+	color: #FF7F00;
+}
+.e:hover {
+	color: #FFFF00;
+}
+.r:hover {
+	color: #00FF00;
+}
+
+
+.profile {
+    vertical-align: top;
+    float: left;
+	margin-top: 0.5rem;
+    padding: 0.2rem 2rem;
+    max-width: 20%;
+}
+
+@media (min-width: 320px) and (max-width: 550px) {
+	.logo a {
+	    color: #003f47;
+	    font-family: "Times New Roman", "serif";
+	    text-transform: uppercase;
+	    letter-spacing: 3px;
+	    font-size: 2.4rem;
+	    font-weight: normal;
+	    cursor: default;
+	    text-align: center;
+	    text-shadow: 1px 1px 0 rgba(218,194,8,1);
+	}
+
+	.profile {
+	    vertical-align: none;
+		margin: 0 auto 2rem auto;
+		display: none;
+	    float: none;
+	    max-width: 80%;
+	}
+}

@@ -1,0 +1,3 @@
+[submodule "themes/elif"]
+	path = themes/elif
+	url = https://github.com/sethreader/sethrepo.theme
