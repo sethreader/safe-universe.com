@@ -13,7 +13,7 @@ pipeline:
       url: https://safe-universe.com
       validate: true
     volumes:
-      - /root/dockerbunker/data/web/safe-universe.com:/drone/src/public
+      - /root/dockerbunker/data/web/safe-universe.com:/drone/src/github.com/sethreader/safe-universe.com/public/
     commands:
       - hugo -v --cleanDestinationDir
       - hugo version
