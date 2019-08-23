@@ -121,7 +121,7 @@ pluralizelisttitles = false
 	description = "A Seth Repository"
 	custom_css = ["css/custom.css"]
 	showReadTime = true
-	gitRepoContentEditLink = "https://git.safe-universe.com/hobs/safe-universe.com/_edit/master/content"
+	gitRepoContentEditLink = "https://github.com/sethreader/safe-universe.com/edit/master/content"
 #	selfHosted = true
 	matomo = "matomo.safe-universe.com"
 
