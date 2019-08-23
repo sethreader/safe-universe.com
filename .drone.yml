@@ -2,6 +2,8 @@ clone:
   git:
     image: plugins/git
     recursive: true
+    submodule_override:
+      elif: https://github.com/sethreader/sethrepo.theme.git
 
 pipeline:
   build:
