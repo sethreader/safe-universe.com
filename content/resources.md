@@ -22,7 +22,7 @@ Tools
 
 Books
 
-- [Living a Safe Universe (4 Books), by Lynda Madden Dhal(https://www.indiebound.org/search/book?keys=living+a+safe+universe)
+- [Living a Safe Universe (4 Books), by Lynda Madden Dhal](https://www.indiebound.org/search/book?keys=living+a+safe+universe)
 
 International
 
