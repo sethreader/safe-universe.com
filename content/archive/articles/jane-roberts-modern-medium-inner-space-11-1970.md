@@ -11,8 +11,8 @@ categories: ['Press']
 tags: ['Article','PDF']
 comments: true
 featured: true
+cover: /img/articles/innerspace/InnerSpace1970-thumb.gif
 ---
-{{< figure src="/img/articles/innerspace/InnerSpace1970-thumb.gif" link="/img/articles/innerspace/InnerSpace1970.gif" >}}
 Jane Roberts sits in her pleasant living room. She talks animatedly, and suddenly, almost at the snap of a finger, she goes into trance. The lights have not been dimmed, nor have any elaborate breathing exercises preceded her trance. Her voice lowers to a male register, the pupils of her eyes darken and dilate perceptibly. The personality of Seth has come. Most mediums supposedly receive messages from another realm, often from the recently departed. Some have special guides, or "alternative personalities." It is not yet clear who or what a control personality is. Eileen Garrett, for example, has Uvani; Douglas Johnson, Chiang; Mrs. Leonard had Feda. Jane Roberts has Seth. Seth uses Jane Roberts' body to some extent. Her facial characteristics change. Her eyes look directly at you as she speaks in Seth's voice, but they are no longer her eyes.
 
 One may wonder at first if she is only acting, but after hours of trance, the personality of Seth becomes sharply delineated.
@@ -82,6 +82,7 @@ Regardless of its source, the Seth material is filled with constructive ideas, h
 ---
 
 You can download a PDF of the original article [here](/files/InnerSpace1970.pdf).
+{{< figure src="/img/articles/innerspace/InnerSpace1970-thumb.gif" link="/img/articles/innerspace/InnerSpace1970.gif" >}}
 
 {{< load-photoswipe >}}
 
