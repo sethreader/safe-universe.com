@@ -57,7 +57,17 @@
 	color: #00FF00;
 }
 
-
+/*
+main .content p:first-child:first-letter {
+	font-size: 400%;
+	float: left;
+	color: #470000;
+	line-height: 60px;
+	padding-top: 4px;
+	padding-right: 8px;
+	padding-left: 3px;
+}
+*/
 .profile {
     vertical-align: top;
     float: left;
